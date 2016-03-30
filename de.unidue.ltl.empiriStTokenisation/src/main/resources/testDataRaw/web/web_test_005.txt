@@ -1,0 +1,20 @@
+<article id="web_test_005" url="http://ubuntuwiki.de/files/sicherheitskonzepte.html" />
+Wiki/Icons/Oxygen/security-medium.png Computerviren, Würmer, Trojaner, Botnetze etc. richten Schaden an - sowohl auf dem eigenen Computer als auch in Unternehmen, durch den Ausfall von Diensten, Servern oder Datenverlust. Fast alle Schadprogramme (engl. Malware) richten sich dabei gegen Windows bzw. Windowssysteme. Dies liegt zum einen daran, dass Windows noch immer das - mit Abstand - verbreitetste Betriebssystem für Desktop-Rechner / Endanwender ist.
+
+Ein zweiter, genau so wichtiger Punkt ist die natürliche Diskrepanz zwischen Sicherheit und Komfort - beides zusammen geht nicht oder endet oft in einem (faulen) Kompromiss. Zwar kündigt Microsoft immer wieder an, die Computerwelt sicherer zu machen, allerdings ist es nach wie vor so, dass es dringend angeraten ist, einen Windows-PC mit einer (inzwischen integrierten) Firewall und einem Viren-/Spywarescanner auszustatten, vor allem dann, wenn man regelmäßig im Internet surft. Firewalls und insbesondere Virenscanner sind heute ein eigener, umfangreicher Bereich bei kommerzieller Software.
+
+Es geht aber auch ohne solche Programme, wenn man ein geeignetes Betriebssystem nutzt, das vergleichsweise weit weniger anfällig gegen Malware ist: Ubuntu oder eine andere Linux-Distribution.
+
+    "Es gibt keinen vernünftigen Grund, warum Computer zunächst unsicher konzipiert und dann vom Benutzer abgedichtet werden müssen." 
+
+Ist Linux wirklich sicherer als Windows?¶
+
+Oft wird behauptet, Linux sei eigentlich konzeptionell gar nicht sicherer als Windows. Sobald es sich weiter verbreite, müssten die Anwender mit einer wahren Flut an Linux-Schadsoftware rechnen, so wie man es unter Windows schon kennt. In der Tat werden Sicherheitslücken in Software umso intensiver genutzt, je populärer ein Programm ist. Dagegen spricht aber, dass Linux umso häufiger eingesetzt wird, je "wichtiger" ein System ist. Mehr als die Hälfte aller Server läuft mit Linux (z.B. auch Serverfarmen der Filmindustrie und von Google), Netzknoten des Internet und anderer Netze und derzeit (Mitte 2010) 491 der 500 schnellsten Superrechner und viele andere Geräte, auf denen man es kaum vermuten würde. Man könnte also mit der "richtigen" Linux-Schadsoftware die halbe Welt kontrollieren, wenn man sie schreiben und verbreiten könnte. "Konzeptionell" bedeutet außerdem noch lange nicht, dass dieses Konzept strikt im gesamten System fehlerfrei und ausnahmslos umgesetzt ist.
+
+Aber es gibt zwischenzeitlich auch Schadsoftware, die Lücken z.B. im Firefox oder Adobe Reader nutzt - beides Programme, die auch unter Ubuntu laufen bzw. rege genutzt werden. Praktisch spielen die Lücken und deren Ausnutzung (Exploit) unter Ubuntu / Linux kaum eine Rolle, weil die meiste Schadsoftware letztendlich doch ein Windows als Unterbau erwartet.
+
+    "Ein Konzept zu haben, ist eine Sache - aber man sollte es auch vernünftig umsetzen."
+
+Vom Sicherheitskonzept her sind Linux und Windows NT (als auch dessen Nachfolger XP, Vista und aktuell 7) gar nicht so verschieden:
+
+    Bei beiden Systemen ist ein wesentlicher Teil des Konzeptes, dass es Benutzer mit unterschiedlichen Privilegien gibt. Unter Linux kann ein Benutzer auch tatsächlich nur seine persönlichen Daten löschen. Windows wird hingegen bis einschließlich Windows XP so ausgeliefert, dass der Benutzer von Anfang an mit vollen Administratorrechten arbeitet. Jeder unbedarfte Mausklick kann somit das gesamte System zerstören oder es mit einem Computerschädling infizieren. Schlimmer noch: Die Arbeit als Nutzer mit eingeschränkten Benutzerrechten ist oft eher dornenreich. Erst mit Windows Vista wird das Konzept durch zusätzliche Sicherheitsabfragen und -mechanismen teilweise umgesetzt. Der zuerst angelegte Benutzer hat jedoch nach wie vor in weiten Teilen noch Administrator-Rechte. Unter Ubuntu hat auch der zuerst angelegte Benutzer nach dem Systemstart keine administrativen Rechte. Diese muss er explizit anfordern (z.B. mit sudo) und per Passwort aktivieren. Und auch dann sind diese nur für eine bestimmte Zeit (z.B. 15 Min.) gültig.

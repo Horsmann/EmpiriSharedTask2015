@@ -1,0 +1,1424 @@
+<posting id="SEM-66" author="Student5"/>
+schreibe	VVIMP
+mal	PTKMA
+meine	PPOSAT
+addy	NN
+auf	PTKVZ
+:	$(
+[	$(
+Email-Adresse	NN
+]	$(
+
+<posting id="SEM-67" author="Student6"/>
+ja	PTKANT
+
+<posting id="SEM-68" author="Student3"/>
+Also	DM
+,	$,
+tschüss	ITJ
+ihr	PPER
+zwei	CARD
+.	$.
+Meine	PPOSAT
+adresse	NN
+steht	VVFIN
+auf	APPR
+der	ART
+Seminarseite	NN
+.	$.
+Frohe	ADJA
+Weihnachten	NN
+etc.	ADV
+!	$.
+
+<posting id="SEM-70" author="Student5"/>
+Ich	PPER
+wünsche	VVFIN
+dir	PPER
+schöne	ADJA
+Ferien	NN
+Student6	NE
+!	$.
+
+<posting id="SEM-71" author="Student6"/>
+Ich	PPER
+hab	VAFIN
+dich	PPER
+auch	ADV
+llieb	ADJD
+!	$.
+
+<posting id="SEM-72" author="Student5"/>
+Und	KON
+viele	PIAT
+Geschenke	NN
+und	KON
+einen	ART
+guten	ADJA
+Rutsch	NN
+und	KON
+überhaupt	ADV
+nur	PTKIFG
+das	ART
+beste	NN
+!	$.
+
+<posting id="SEM-73" author="Student5"/>
+:-*	EMOASC
+
+<posting id="SEM-74" author="Student6"/>
+du	PPER
+mich	PPER
+auch	ADV
+...	$.
+
+<posting id="SEM-75" author="Student5"/>
+*<:-)	EMOASC
+
+<posting id="SEM-76" author="Student6"/>
+hübsche	ADJA
+nikolaus	NN
+!	$.
+
+<posting id="SEM-77" author="Student5"/>
+du	PPER
+mich	PPER
+noch	PTKMWL
+viel	PTKIFG
+mehr	PIS
+!	$.
+
+<posting id="SEM-78" author="Student6"/>
+na	ITJ
+szia	FM
+!!!!	$.
+:-*	EMOASC
+
+<posting id="SEM-79" author="Student5"/>
+du	PPER
+weißt	VVFIN
+schon	PTKMA
+diese	PDAT
+ungarische	ADJA
+Wort	NN
+mit	APPR
+B	NN
+am	APPRART
+Anfang	NN
+!	$.
+
+<posting id="SEM-80" author="Student6"/>
+meinst	VVFIN
+du	PPER
+bazdmeg	FM
+?	$.
+
+<posting id="SEM-81" author="Student5"/>
+Tschüß	ITJ
+.......	$.
+
+<posting id="216" author="Günther Beckstein"/>
+Neues	ADJA
+Thema	NN
+:	$(
+Drogenpolitik	NN
+...	$.
+
+<posting id="217" author="Kolja Raube"/>
+HErr	NN
+Özdemir	NE
+,	$,
+antworten	VVIMP
+Sie	PPER
+!	$.
+Ist	VAFIN
+das	PDS
+die	ART
+Bekämpfung	NN
+des	ART
+Terrorismus	NN
+durch	APPR
+Außenpolititk	NN
+?	$.
+
+<posting id="218" author="Cem Özdemir"/>
+Bin	VAFIN
+gespannt	ADJD
+
+<posting id="219" author="Günther Beckstein"/>
+Die	ART
+Diskussion	NN
+über	APPR
+Freigabe	NN
+von	APPR
+Haschisch	NN
+durch	APPR
+die	ART
+Grünen	NE
+ist	VAFIN
+verherend	ADJD
+.	$.
+
+<posting id="220" author="apuzzili"/>
+gibt	VVFIN
+es	PPER
+bestimmte	ADJA
+drogenräume	NN
+,	$,
+herr	NN
+beckstein	NE
+???	$.
+
+<posting id="221" author="Kolja Raube"/>
+Warum	PWAV
+ist	VAFIN
+HAschisch	NN
+verheerend	ADJD
+?	$.
+
+<posting id="222" author="Bakunin"/>
+Recht	NN
+auf	APPR
+Rausch	NN
+:	$(
+Ein	ART
+freiheitliches	ADJA
+Grundrecht	NN
+,	$,
+das	PRELS
+hierzulande	ADV
+verwehrt	ADJD
+bleibt	VVFIN
+...	$(
+!	$.
+
+<posting id="223" author="Kolja Raube"/>
+Warum	PWAV
+ist	VAFIN
+die	ART
+niederländische	ADJA
+Politik	NN
+verheerend	ADJD
+?	$.
+
+<posting id="224" author="sebastian"/>
+wieso	PWAV
+verherend	ADJD
+,	$,
+herr	NN
+beckstein	NE
+.	$.
+verherend	ADJD
+ist	VAFIN
+die	ART
+ideologische	ADJA
+drogenpolitik	NN
+a	KOKOM
+la	KOKOM
+dsu	NE
+
+<posting id="225" author="Cem Özdemir"/>
+Wollen	VMFIN
+Sie	PPER
+den	ART
+Irrsinn	NN
+nicht	PTKNEG
+endlich	ADJD
+beenden	VVINF
+,	$,
+die	ART
+Alltagsdrogen	NN
+Nikotin	NN
+,	$,
+Medikamentenmissbrauch	NN
+und	KON
+Alkohol	NN
+zu	PTKZU
+verharmlosen	VVINF
+und	KON
+den	ART
+Gebrauch	NN
+von	APPR
+Cannabis-Produkten	NN
+zu	PTKZU
+kriminalisieren	VVINF
+.	$.
+Wir	PPER
+wollen	VMFIN
+die	ART
+Entkriminalisierung	NN
+...	$.
+
+<posting id="226" author="Cem Özdemir"/>
+Die	ART
+Schweiz	NE
+macht	VVFIN
+es	PPER
+uns	PPER
+vor	PTKVZ
+.	$.
+Sind	VAFIN
+die	PDS
+weniger	PIAT
+klug	ADJD
+wie	KOKOM
+wir	PPER
+?	$.
+
+<posting id="227" author="Bakunin"/>
+Kriminalisierung	NN
+von	APPR
+Kiffern	NN
+auch	PTKIFG
+unter	APPR
+rot-grün	NN
+-	$(
+eine	ART
+derbe	ADJA
+Enttäuschung	NN
+!	$.
+
+<posting id="228" author="moo"/>
+warum	PWAV
+wird	VAFIN
+ein	ART
+so	PTKIFG
+grosser	ADJA
+Unterschied	NN
+gemacht	VVPP
+zwischen	APPR
+Haschisch	NN
+und	KON
+Alkohol	NN
+.	$.
+Alkohol	NN
+ist	VAFIN
+ebenso	ADV
+,	$,
+wenn	KOUS
+nicht	PTKNEG
+noch	PTKIFG
+verheerender	ADJD
+und	KON
+wird	VAFIN
+ironischerweise	ADV
+trotzdem	ADV
+von	APPR
+der	ART
+Gesellschaft	NN
+akzeptiert	VVPP
+
+<posting id="229" author="sebastian"/>
+csu	NE
+
+<posting id="230" author="Günther Beckstein"/>
+Prävention	NN
+,	$,
+Repression	NN
+und	KON
+Hilfe	NN
+auch	PTKIFG
+zum	APPRART
+Ausstieg	NN
+sind	VAFIN
+Kernpunkte	NN
+der	ART
+Drogenpolitik	NN
+.	$.
+Schweiz	NE
+und	KON
+Niederlande	NE
+sind	VAFIN
+wichtigste	ADJA
+Lieferländer	NN
+nicht	PTKNEG
+nur	PTKIFG
+für	APPR
+..	$(
+
+<posting id="231" author="Kolja Raube"/>
+DAs	ART
+Bundesverfassungsgericht	NN
+hat	VAFIN
+soeben	ADV
+in	APPR
+einem	ART
+Urteil	NN
+wieder	ADV
+bestätigt	VVPP
+:	$.
+Der	ART
+Eigenbedarf	NN
+von	APPR
+Rauschgift	NN
+ist	VAFIN
+kein	PIAT
+Grund	NN
+für	APPR
+einen	ART
+Führerescheinentzug	NN
+...	$.
+WAs	PWS
+ist	VAFIN
+dagegen	PAV
+einzuwenden	VVIZU
+?	$.
+,	$,
+Herr	NN
+BEckstein	NE
+
+<posting id="232" author="apuzzili"/>
+was	PWS
+hat	VAFIN
+das	ART
+ganze	NN
+jetzt	ADV
+mit	APPR
+sicherheit	NN
+zu	PTKZU
+tun	VVINF
+?	$.
+oder	KON
+freiheit	NN
+?	$.
+
+<posting id="233" author="Günther Beckstein"/>
+Haschisch	NN
+sondern	KON
+auch	PTKIFG
+Heroin	NN
+....	$.
+
+<posting id="234" author="Günther Beckstein"/>
+Haschisch	NN
+ist	VAFIN
+eine	ART
+gefährliche	ADJA
+Einstiegsdroge	NN
+.	$.
+
+<posting id="235" author="Cem Özdemir"/>
+Wir	PPER
+beiden	PIS
+werden	VAFIN
+die	ART
+Umkehr	NN
+in	APPR
+der	ART
+Cannabis-Politik	NN
+in	APPR
+Deutschland	NE
+noch	ADV
+genauso	ADV
+erleben	VVINF
+,	$,
+wie	KOUS
+die	ART
+Anerkennung	NN
+der	ART
+Eingetr.	ADJA
+Lebenspartnerschaft	NN
+gekommen	VVPP
+ist	VAFIN
+...	$.
+
+<posting id="236" author="Bakunin"/>
+Was	PWS
+hat	VAFIN
+Haschisch	NN
+mit	APPR
+"	$(
+Ausstieg	NN
+"	$(
+zu	PTKZU
+tun	VVINF
+?	$.
+
+<posting id="237" author="moderator"/>
+Eine	ART
+weitere	ADJA
+Frage	NN
+an	APPR
+die	ART
+beiden	PIAT
+Kontrahenten	NN
+auf	APPR
+dem	ART
+virtuellen	ADJA
+Podium	NN
+:	$.
+zap	NE
+:	$(
+Welche	PWAT
+Freiheitsrechte	NN
+dürfen	VMFIN
+auf	APPR
+keinen	PIAT
+Fall	NN
+durch	APPR
+eine	ART
+schärfere	ADJA
+Sicherheitspolitik	NN
+eingeschränkt	VVPP
+werden	VAINF
+?	$.
+
+<posting id="238" author="Cem Özdemir"/>
+Wissenschaft	NN
+sagt	VVFIN
+etwas	PIAT
+anderes	PIS
+!	$.
+
+<posting id="239" author="Günther Beckstein"/>
+Die	ART
+Prävention	NN
+gegenüber	APPR
+Alltagsdrogen	NN
+ist	VAFIN
+wichtig	ADJD
+,	$,
+darf	VMFIN
+aber	ADV
+nicht	PTKNEG
+dazu	PAV
+führen	VVINF
+,	$,
+weitere	ADJA
+Drogen	NN
+zu	PTKZU
+verbreiten	VVINF
+.	$.
+
+<posting id="240" author="apuzzili"/>
+Sie	PPER
+kennen	VVFIN
+sich	PRF
+aber	PTKMA
+ziemlich	PTKIFG
+gut	ADJD
+aus	PTKVZ
+,	$,
+Herr	NN
+Beckstein	NE
+,	$,
+Schweiz	NE
+und	KON
+Heroin	NN
+?	$.
+
+<posting id="241" author="Bakunin"/>
+"	$(
+Einstiegsdroge	NN
+"	$(
+-	$(
+vielleicht	ADV
+,	$,
+weil	KOUS
+man	PIS
+es	PPER
+im	APPRART
+selben	ADJA
+Milieu	NN
+wie	KOKOM
+angeblich	ADJD
+"	$(
+harte	ADJA
+"	$(
+Drogen	NN
+bekommt	VVFIN
+?	$.
+
+<posting id="242" author="Cem Özdemir"/>
+Denken	VVFIN
+Sie	PPER
+dabei	PAV
+ans	APPRART
+Oktoberfest	NN
+?	$.
+
+<posting id="243" author="apuzzili"/>
+Heyyyyyyy	ITJ
+!	$.
+Frage	NN
+beantworten	VVINF
+!	$.
+Ignoranten	NN
+!!!!!!!	$.
+
+<posting id="244" author="Lukas"/>
+ich	PPER
+habe	VAFIN
+einige	PIAT
+zeit	NN
+in	APPR
+den	ART
+niedelanden	NE
+gelebt	VVPP
+und	KON
+lebe	VVFIN
+jetzt	ADV
+an	APPR
+der	ART
+grenze	NN
+zu	APPR
+den	ART
+niederlanden	NE
+(	$(
+bei	APPR
+groningen	NE
+)	$(
+.	$.
+die	ART
+niederländer	NN
+bedauern	VVFIN
+heute	ADV
+ihre	PPOSAT
+entscheidung	NN
+die	ART
+freigabe	NN
+von	APPR
+haschisch	NN
+.	$.
+wie	PWAV
+soll	VMFIN
+es	PPER
+mit	APPR
+uns	PPER
+werden	VAINF
+?	$.
+wir	PPER
+liegen	VVFIN
+in	APPR
+der	ART
+mitte	NN
+europas	NE
+und	KON
+drogen	NN
+werden	VAFIN
+noch	ADV
+stärker	ADJD
+durch	APPR
+unser	PPOSAT
+land	NN
+wandern	VVINF
+.	$.
+
+<posting id="245" author="Günther Beckstein"/>
+ZU	APPR
+237	CARD
+:	$(
+...	$(
+
+<posting id="246" author="Cem Özdemir"/>
+Zu	APPR
+zap	NE
+:	$(
+Die	ART
+Freiheit	NN
+des	ART
+Einzelnen	NN
+ist	VAFIN
+ein	ART
+heiliges	ADJA
+Gut	NN
+in	APPR
+unserer	PPOSAT
+Demokratie	NN
+.	$.
+Einschränkungen	NN
+bei	APPR
+unserer	PPOSAT
+Verfassung	NN
+gibts	VVPPER
+mit	APPR
+uns	PPER
+nicht	PTKNEG
+
+<posting id="247" author="Günther Beckstein"/>
+Verhältnismässigkeitsprinzip	NN
+hat	VAFIN
+höchsten	ADJA
+Rang	NN
+.	$.
+Der	ART
+Grundrechtskatalog	NN
+ist	VAFIN
+unser	PPOSAT
+Maßstab	NN
+,	$,
+aber	KON
+auch	ADV
+mehr	ADV
+an	APPR
+die	ART
+Opfer	NN
+von	APPR
+Kriminalität	NN
+denken	VVINF
+.	$.
+
+<posting id="248" author="moderator"/>
+Es	PPER
+gibt	VVFIN
+auch	ADV
+eine	ART
+Zeit	NN
+vor	APPR
+der	ART
+Gefährdung	NN
+.	$.
+Was	PWS
+kann	VMFIN
+Prävention	NN
+leisten	VVINF
+.	$.
+Tmachui	NE
+fragt	VVFIN
+:	$.
+Nach	APPR
+dem	ART
+11.	ADJA
+September	NN
+wird	VAFIN
+viel	ADV
+über	APPR
+die	ART
+Präventionsstrategien	NN
+nachgedacht	VVPP
+.	$.
+Sehen	VVFIN
+Sie	PPER
+Gefahren	NN
+für	APPR
+den	ART
+Rechtsstaat	NN
+und	KON
+Demokratie	NN
+aufgrund	APPR
+zunehmender	ADJA
+Befugnisse	NN
+des	ART
+Staates	NN
+in	APPR
+individuelle	ADJA
+Rechte	NN
+einzugreifen	VVIZU
+?	$.
+
+<posting id="249" author="Kolja Raube"/>
+Herr	NN
+Beckstein	NE
+,	$,
+sie	PPER
+werden	VAFIN
+zugeben	VVINF
+müssen	VMINF
+,	$,
+daß	KOUS
+München	NE
+eine	ART
+der	ART
+Drogenhochburgen	NN
+Deutschlands	NE
+ist	VAFIN
+?	$.
+Was	PWS
+ist	VAFIN
+an	APPR
+Ihrer	PPOSAT
+Politik	NN
+fehlgeschlagen	ADJD
+?	$.
+
+<posting id="250" author="Bakunin"/>
+Zu	APPR
+246	CARD
+:	$(
+Außer	APPR
+beim	APPRART
+Recht	NN
+auf	APPR
+freie	ADJA
+Verfügungsgewalt	NN
+über	APPR
+den	ART
+eigenen	ADJA
+Körper	NN
+,	$,
+Stichwort	NN
+wieder	ADV
+:	$(
+Recht	NN
+auf	APPR
+Rausch	NN
+!	$.
+
+<posting id="251" author="Günther Beckstein"/>
+Ergänzung	NN
+zu	APPR
+247	CARD
+:	$(
+Zu	APPR
+Die	ART
+Freiheit	NN
+des	ART
+Kriminellen	NN
+muss	VMFIN
+eingeschränkt	VVPP
+werden	VAINF
+.	$.
+
+<posting id="252" author="Cem Özdemir"/>
+Bin	VAFIN
+froh	ADJD
+,	$,
+dass	KOUS
+die	ART
+Bundesregierung	NN
+in	APPR
+ihrem	PPOSAT
+jährlichen	ADJA
+Sicherheitsbericht	NN
+vor	APPR
+allem	PIS
+auf	APPR
+die	ART
+Prävention	NN
+abhebt	VVFIN
+
+<posting id="253" author="sebastian"/>
+@lukas	ADR
+:	$(
+da	ADV
+kenne	VVFIN
+ich	PPER
+andere	PIAT
+niederländer	NN
+
+<posting id="254" author="Günther Beckstein"/>
+Zu	APPR
+248	CARD
+:	$(
+Nein	PTKANT
+.	$.
+
+<posting id="255" author="Cem Özdemir"/>
+248	CARD
+:	$(
+Einige	PIS
+der	ART
+Befugnisse	NN
+für	APPR
+die	ART
+Dienste	NN
+im	APPRART
+Sicherheitspaket	NN
+haben	VAFIN
+wir	PPER
+bewußt	ADJD
+zeitlich	ADJD
+befristet	VVPP
+.	$.
+So	ADV
+können	VMFIN
+wir	PPER
+schauen	VVINF
+,	$,
+ob	KOUS
+sie	PPER
+noch	ADV
+notwendig	ADJD
+sind	VAFIN
+.	$.
+
+<posting id="256" author="Kolja Raube"/>
+Drogen	NN
+und	KON
+Doping	NN
+liegen	VVFIN
+eng	ADJD
+beieinander	ADV
+:	$.
+GIbt	VVFIN
+es	PPER
+Pläne	NN
+HErrn	NN
+BEcksteins	NE
+für	APPR
+eine	ART
+zkünftige	ADJA
+Sportpolitik	NN
+?	$.
+
+<posting id="257" author="moderator"/>
+Nach	APPR
+dem	ART
+11.	ADJA
+September	NN
+2001	CARD
+,	$,
+Sicherheitspaket	NN
+I	CARD
+und	KON
+II	CARD
+etc.	ADV
+stellt	VVFIN
+sich	PRF
+dringlicher	ADJD
+als	KOKOM
+je	ADV
+die	ART
+Frage	NN
+:	$.
+Wer	PWS
+kontrolliert	VVFIN
+die	ART
+Kontrolleure	NN
+?	$.
+
+<posting id="258" author="moderator"/>
+Bitte	ADV
+Herr	NN
+Beckstein	NE
+zuerst	ADV
+.	$.
+
+<posting id="259" author="Günther Beckstein"/>
+Zu	APPR
+257	CARD
+:	$(
+Dienstaufsicht	NN
+,	$,
+Parlament	NN
+,	$,
+Gerichte	NN
+....	$(
+
+<posting id="260" author="Günther Beckstein"/>
+und	KON
+Öffentlichkeit	NN
+.	$.
+Daran	PAV
+hat	VAFIN
+sich	PRF
+nichts	PIS
+geändert	VVPP
+.	$.
+
+<posting id="261" author="Cem Özdemir"/>
+Endlich	ADJD
+gibt	VVFIN
+es	PPER
+starke	ADJA
+Kontrollrechte	NN
+im	APPRART
+Parlament	NN
+.	$.
+Wie	PWAV
+sieht	VVFIN
+es	PPER
+im	APPRART
+bayr.	ADJA
+Landtag	NN
+aus	PTKVZ
+?	$.
+Die	ART
+Oppositionspartei	NN
+Grüne	NE
+darf	VMFIN
+nicht	PTKNEG
+kontrollieren	VVINF
+!	$.
+
+<posting id="262" author="Günther Beckstein"/>
+Jeder	PIS
+nach	APPR
+seinen	PPOSAT
+Fähigkeiten	NN
+und	KON
+Stärken	NN
+.	$.
+
+<posting id="263" author="Lukas"/>
+haben	VAFIN
+sie	PPER
+beide	PIS
+mal	ADV
+erlebt	VVPP
+wie	PWAV
+es	PPER
+ist	VAFIN
+auf	APPR
+einem	ART
+schulhof	NN
+voller	APPR
+fixerspritzen	NN
+und	KON
+kiffenden	ADJA
+schülern	NN
+zu	PTKZU
+sein	VAINF
+?	$.
+
+<posting id="264" author="Cem Özdemir"/>
+Ein	ART
+tolles	ADJA
+Demokratieverständnis	NN
+Herr	NN
+Minister	NN
+!	$.
+
+<posting id="265" author="Bakunin"/>
+"	$(
+Wer	PWS
+kontrolliert	VVFIN
+die	ART
+Kontrolleure	NN
+"	$(
+-	$(
+richtig	ADJD
+.	$.
+Aber	KON
+daran	PAV
+sieht	VVFIN
+man	PIS
+auch	ADV
+,	$,
+auf	APPR
+welcher	PWAT
+Basis	NN
+das	ART
+ganze	ADJA
+System	NN
+beruht	VVFIN
+-	$(
+Mißtrauen	NN
+statt	APPR
+Vertrauen	NN
+.	$.
+Jeder	PIS
+ist	VAFIN
+ein	ART
+potenzieller	ADJA
+Verbrecher	NN
+,	$,
+auch	ADV
+sie	PPER
+,	$,
+Herr	NN
+Özdemir	NE
+und	KON
+Herr	NN
+Beckstein	NE
+!	$.
+
+<posting id="266" author="Günther Beckstein"/>
+Wie	KOUS
+vom	APPRART
+Verfassungsgericht	NN
+bestätigt	VVPP
+.	$.
+
+<posting id="267" author="Cem Özdemir"/>
+Macht	VVFIN
+es	PPER
+nicht	PTKNEG
+besser	ADJD
+
+<posting id="268" author="Kolja Raube"/>
+DAs	ART
+Bundesverfassungsgericht	NN
+rechnet	VVFIN
+,	$,
+so	ADV
+Herr	NN
+Papier	NE
+,	$,
+in	APPR
+einem	ART
+Spiegel-Interview	NN
+diesen	PDAT
+Montag	NN
+,	$,
+mit	APPR
+einer	ART
+Konfrontation	NN
+zwischen	APPR
+Freiheit	NN
+und	KON
+Sicherheit	NN
+in	APPR
+zukünftigen	ADJA
+Verfassungsbeschwerden	NN
+-	$(
+will	VMFIN
+der	ART
+GEsetzgeber	NN
+dies	PDS
+dem	ART
+Gericht	NN
+überlassen	VVINF
+?	$.
+
+<posting id="269" author="Bakunin"/>
+@Lukas	ADR
+:	$(
+Aber	KON
+du	PPER
+hast	VAFIN
+das	PDS
+bestimmt	ADJD
+schon	PTKMWL
+oft	ADV
+erlebt	VVPP
+...	$.
+
+<posting id="270" author="moderator"/>
+Noch	PTKMWL
+einmal	ADV
+die	ART
+Frage	NN
+.	$.
+Die	ART
+Union	NE
+will	VMFIN
+ein	ART
+Sicherheitspaket	NN
+III	CARD
+:	$.
+Reichen	VVFIN
+nicht	PTKNEG
+die	ART
+bisherigen	ADJA
+Gesetze	NN
+aus	PTKVZ
+.	$.
+Werden	VAFIN
+Sie	PDS
+vielleicht	PTKMA
+nur	ADV
+nicht	PTKNEG
+konsequent	ADJD
+genug	ADV
+angewandt	VVPP
+?	$.
+**	$(
+
+<posting id="271" author="Günther Beckstein"/>
+Vollzug	NN
+muss	VMFIN
+perfektioniert	VVPP
+werden	VAINF
+aber	KON
+es	PPER
+verbleiben	VVFIN
+gesetzliche	ADJA
+Lücken	NN
+,	$,
+die	PRELS
+wir	PPER
+uns	PRF
+nicht	PTKNEG
+leisten	VVINF
+können	VMFIN
+...	$.
+
+<posting id="272" author="Cem Özdemir"/>
+Die	ART
+Union	NE
+wird	VAFIN
+immer	ADV
+neue	ADJA
+Sicherheitspakete	NN
+fordern	VVINF
+.	$.
+Ihr	PPOSAT
+Konzept	NN
+beschränkt	VVFIN
+sich	PRF
+leider	ADV
+weitgehend	ADJD
+auf	APPR
+Gesetzesverschärfungen	NN
+.	$.
+
+<posting id="273" author="dijalkwe"/>
+Haben	VAFIN
+Sie	PPER
+Herr	NN
+Beckstein	NE
+auch	ADV
+Gelder	NN
+erhalten	VVPP
+?	$.
+
+<posting id="274" author="Günther Beckstein"/>
+Dass	KOUS
+wir	PPER
+von	APPR
+Sicherheit	NN
+etwas	PIS
+verstehen	VVFIN
+-	$(
+im	APPRART
+Unterschied	NN
+zu	APPR
+den	ART
+Grünen	NE
+-	$(
+ist	VAFIN
+Allgemeingut	NN
+.	$.
+
+<posting id="275" author="Cem Özdemir"/>
+Allgemein	ADJD
+ja	PTKANT
+,	$,
+aber	KON
+gut	ADJD
+?	$.
+
+<posting id="276" author="dijalkwe"/>
+Von	APPR
+Unterdrueckung	NN
+aber	KON
+nicht	PTKNEG
+Sicherheit	NN
+
+<posting id="277" author="Günther Beckstein"/>
+In	APPR
+Bayern	NE
+lebt	VVFIN
+man	PIS
+sicher	ADJD
+und	KON
+frei	ADJD
+,	$,
+deswegen	PAV
+fühlen	VVFIN
+sich	PRF
+so	PTKIFG
+viele	PIAT
+Menschen	NN
+bei	APPR
+uns	PPER
+wohl	PTKVZ
+,	$,
+auch	PTKIFG
+Ausländer	NN
+.	$.
+
+<posting id="278" author="moderator"/>
+Liebe	ADJA
+Podiumsgäste	NN
+!	$.
+Die	ART
+Zeit	NN
+für	APPR
+das	ART
+erste	ADJA
+tacheles.02spezial	NE
+Duell	NN
+ist	VAFIN
+leider	ADV
+bereits	ADV
+abgelaufen	ADJD
+.	$.
+Wir	PPER
+bedanken	VVFIN
+uns	PRF
+im	APPRART
+Namen	NN
+von	APPR
+tagesschau.de	NE
+,	$,
+WAHLTHEMEN.DE	NE
+und	KON
+politik-digital.de	NE
+für	APPR
+Ihre	PPOSAT
+Teilnahme	NN
+sowie	KON
+die	ART
+vielen	PIAT
+Fragen	NN
+und	KON
+Kommentare	NN
+.	$.
+Herzlichen	ADJA
+Dankbesonders	NN
+an	APPR
+Herrn	NN
+Minister	NN
+Dr.	NN
+Günther	NE
+Beckstein	NE
+und	KON
+Cem	NE
+Özdemir	NE
+für	APPR
+Ihre	PPOSAT
+Bereitschaft	NN
+,	$,
+an	APPR
+diesem	PDAT
+"	$(
+virtuellen	ADJA
+Podium	NN
+"	$(
+teilzunehmen	VVIZU
+.	$.
+Wir	PPER
+hoffen	VVFIN
+,	$,
+dass	KOUS
+es	PPER
+auch	ADV
+für	APPR
+Sie	PPER
+interessant	ADJD
+war	VAFIN
+!	$.
+Wer	PWS
+Interesse	NN
+hat	VAFIN
+,	$,
+weiter	ADJD
+zu	PTKZU
+diskutieren	VVINF
+,	$,
+ist	VAFIN
+herzlich	ADJD
+eingeladen	VVPP
+,	$,
+am	APPRART
+Debatten-Forum	NN
+zum	APPRART
+Thema	NN
+:	$(
+"	$(
+Sicher	ADJD
+oder	KON
+frei	ADJD
+?	$.
+"	$(
+bei	APPR
+WAHLTEHMEN.DE	NE
+teilzunehmen	VVIZU
+.	$.
+
+<posting id="279" author="Kolja Raube"/>
+BAyern	NE
+ist	VAFIN
+nicht	PTKNEG
+BErlin	NE
+
+<posting id="280" author="Bakunin"/>
+Herr	NN
+Beckstein	NE
+,	$,
+wieso	PWAV
+fehlt	VVFIN
+ihnen	PPER
+das	ART
+Urvertrauen	NN
+in	APPR
+den	ART
+Menschen	NN
+?	$.
+Was	PWS
+ist	VAFIN
+bei	APPR
+ihnen	PPER
+schiefgelaufen	VVPP
+,	$,
+daß	KOUS
+sie	PPER
+so	ADR
+ein	ART
+Misanthrop	NN
+sind	VAFIN
+?	$.
+
+<posting id="281" author="Kolja Raube"/>
+BAyern	NE
+ist	VAFIN
+nicht	PTKNEG
+BErlin	NE
+
+<posting id="282" author="apuzzili"/>
+zu	APPR
+275	CARD
+:	$(
+der	PDS
+war	VAFIN
+jetzt	ADV
+weniger	ADJD
+witzig	ADJD
+,	$,
+cem	NE
+...	$.
+
+<posting id="283" author="Bakunin"/>
+Zu	APPR
+277	CARD
+:	$(
+Ja	PTKANT
+,	$,
+vor	APPR
+allem	PIS
+die	ART
+Abgeschobenen	NN
+!!!	$.
+
+<posting id="284" author="Günther Beckstein"/>
+An	APPR
+alle	PIAT
+Chat-Teilnehmer	NN
+besten	ADJA
+Dank	NN
+.	$.
+
+<posting id="285" author="Cem Özdemir"/>
+Bis	APPR
+zum	APPRART
+nächsten	ADJA
+"	$(
+Treffen	NN
+"	$(
+Herr	NN
+Beckstein	NE
+.	$.
+Nach	APPR
+vielen	PIAT
+gem.	ADJA
+Streitgesprächen	NN
+war	VAFIN
+dies	PDS
+unser	PPOSAT
+erster	ADJA
+Chat	NN
+,	$,
+wenn	KOUS
+ich	PPER
+mich	PRF
+nicht	PTKNEG
+irre	VVFIN
+.	$.
+Hoffe	VVFIN
+es	PPER
+war	VAFIN
+auch	ADV
+für	APPR
+die	ART
+Chatter	NN
+interessant	ADJD
+.	$.
+Dank	NN
+auch	ADV
+an	APPR
+die	ART
+Veranstalter	NN
+.	$.
+Ciao	ITJ

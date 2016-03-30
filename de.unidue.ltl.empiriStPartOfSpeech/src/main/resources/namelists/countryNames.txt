@@ -1,0 +1,173 @@
+# Name of countries in German
+# https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde
+Abchasien
+Ägypten
+Albanien
+Algerien
+Andorra
+Antigua und Barbuda
+Äquatorialguinea
+Argentinien
+Armenien
+Aserbaidschan
+Äthiopien
+Australien
+Bahrain
+Bangladesch
+Belgien
+Belize
+Benin
+Bergkarabach
+Bhutan
+Bolivien
+Bosnien und Herzegowina
+Botswana
+Brasilien
+Bulgarien
+Burkina Faso
+Burundi
+Volksrepublik China
+Macau
+Cookinseln
+Costa Rica
+Dänemark
+Färöer
+Grönland
+Deutschland
+Dominica
+Dominikanische Republik
+Dschibuti
+Ecuador
+El Salvador
+Elfenbeinküste
+Estland
+Fidschi
+Finnland
+Frankreich
+Gabun
+Gambia
+Georgien
+Griechenland
+Guatemala
+Guinea-Bissau
+Guyana
+Indien
+Indonesien
+Irak
+Irland
+Italien
+Jamaika
+Jemen
+Jordanien
+Kambodscha
+Kamerun
+Kanada
+Kap Verde
+Kasachstan
+Katar
+Kenia
+Kirgisistan
+Kirgizija
+Kiribati
+Kolumbien
+Komoren
+Kongo
+Kongo
+Süd-Korea
+Kroatien
+Kuba
+Lesotho
+Lettland
+Libanon
+Liberia
+Libyen
+Litauen
+Luxemburg
+Madagaskar
+Malawi
+Malediven
+Mali
+Marokko
+Marshallinseln
+Mauretanien
+Mauritius
+Mazedonien
+Mexiko
+Mikronesien
+Moldawien
+Mongolei
+Montenegro
+Mosambik
+Myanmar
+Nauru
+Nepal
+Neuseeland
+Niederlande
+Niger
+Niue
+Nordzypern
+Norwegen
+Österreich
+Osttimor
+Timor-Leste
+Palästina
+Palau
+Papua-Neuguinea
+Paraguay
+Paraguái
+Philippinen
+Ruanda
+Rumänien
+Russland
+ohne Krim
+Salomonen
+Sambia
+Samoa
+San Marino
+São Tomé und Príncipe
+Saudi-Arabien
+Svizra
+Senegal
+Serbien
+Seychellen
+Sierra Leone
+Simbabwe
+Singapur
+Slowakei
+Slowenien
+as-Sūmāl
+Somaliland
+Spanien
+Sri Lanka
+St. Kitts und Nevis
+St. Lucia
+St. Vincent
+Südafrika
+Südossetien
+Südsudan
+Suriname
+Swasiland
+Syrien
+Tadschikistan
+Tansania
+Togo
+Tonga
+Transnistrien
+Trinidad und Tobago
+Tschad
+Tschechien
+Tunesien
+Türkei
+Turkmenistan
+Tuvalu
+Uganda
+Usbekistan
+Vanuatu
+Vatikanstadt
+Vereinigte Arabische Emirate
+Vereinigte Staaten
+Vereinigtes Königreich
+Weißrussland
+Westsahara
+Zentralafrikanische Republik
+Zypern

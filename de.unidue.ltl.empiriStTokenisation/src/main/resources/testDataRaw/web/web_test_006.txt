@@ -1,0 +1,24 @@
+<article id="web_test_006" url="http://phantanews.de/wp/aartikel/die-sueddeutsche-zeitung-und-die-typografie-im-ebook/" />
+Da liest man beispielsweise:
+
+    Doch ein E-Book kann das Lesevergnügen rasch zunichte machen, schon wenn man die Schrift etwas vergrößert. Plötzlich finden sich Löcher im Text, Zeilen und Überschriften verrutschen, Umbruch und Silbentrennung lassen die Haare des Lesers zu Berge stehen.
+
+Ja, kann alles passieren. Dieses Zitat zeigt allerdings schon das grundsätzliche Problem des Artikels. Da wird sehr lange nur vom »eBook« gesprochen und man differenziert nicht zwischen eBooks und eReadern, sondern macht allle Probleme nur am »eBook« und dessen »Produzenten« fest. Das ist natürlich Mumpitz, denn die angesprochenen typografischen Probleme haben zahllose Gründe, die zum Teil bei den eigentlichen Dateien (also den eBooks) und zum Teil bei den Lesegeräten zu suchen sind. Der Artikel erweckt jedoch den Eindruck, als sei ausschließlich »das eBook« schuld – und das ist falsch. Erst spät im Artikel geht man dann doch plötzlich davon wieder ab und erkennt, dass die Probleme auf drei Ebenen stattfinden. Dazu weiter unten mehr.
+
+Beim Satz
+
+    Und wenn man Pech hat, lädt jede Seite des E-Books beim Umblättern so lange, bis man den Reader entnervt zur Seite legt.
+
+muss zumindest ich mich fragen, welche fossilen Geräte der Autor benutzt hat, denn die Verzögerungen beim Umblättern gehören längst zur Vergangenheit und angeblich kann sogar der Tolino Shine dank Firmwareupdates inzwischen halbwegs schnell blättern (habe ich mir sagen lassen). Der Großteil aktueller eReader blättert schneller als man eine Buchseite umlegen kann. Vielleicht sollte der Autor ein aktuelles Gerät erwerben, statt unreflektiert mal eben grundsätzlich eReader und die eBooks schlecht zu machen (oder die Aussagen Dritter einfach mal zu glauben).
+
+Ja, es kann vorkommen, dass es Hurenkinder und Schusterjungen gibt, weil die Schriftgröße eben variabel ist. Das ist zum einen ein technisches Problem, das mittels aktualisierter Readerfirmwares gelöst werden kann. Vielleicht sollte der Autor zusätzlich mal mit Kurzsichtigen sprechen, ob die einen Schusterjungen wirklich für störend halten, wenn sie dafür das Buch ohne Augenanstrengung lesen können. It´s not a bug, it´s a feature.
+
+Silbentrennung? Ja, gibt es manchmal, manchmal auch nicht. Der Grund hierfür ist einfach: bei vielen eReadern ist die CPU, also der Prozessor, schlicht nicht stark genug, um bei einem fließenden Layout (wir erinnern uns: die Schriftgröße ist dem eigenen Geschmack oder körperlichen Einschränkungen anpassbar) via Software eine korrekte Silbentrennung durchzuführen. Das ist der Grund, warum Lesesoftware auf Tablets oft dazu in der Lage ist, man bei eReadern jedoch darauf verzichten muss. Man kann davon ausgehen, dass ein paar der aktuellen dedizierten Lesegeräte das durch Firmwareupdates noch beigebracht bekommen.
+
+Immer wieder wird Benjamin Göck aus einem Artikel auf buchreport.de zitiert:
+
+    Auch schöne Initialen und Ligaturen sind nicht möglich.
+
+Fraktur eBookDas ist natürlich völliger Unsinn. »Schöne Initialen« sind selbstverständlich möglich. Ebenso wie Ligaturen. Wer letzteres nicht glaubt, sollte mal einen Blick auf das Projekt von Ralf Gawlista werfen, der sogar Fraktur auf eReadern darstellen kann, inklusive korrekter Ligaturen. Wie oft das »Æ« in den von mir verlegten Steampunk-Anthologien ÆTHERGARN und GESCHICHTEN AUS DEM ÆTHER vorkommt, möchte ich lieber nicht zählen. Die Aussage, dass Ligaturen nicht möglich sind, ist schlicht mangelnde Kenntnis und falsch.
+
+    Aktuell gibt es zwei Standards, die im Gegensatz zur PDF-Version einen dynamischen Umbruch, also einen »lebenden« Text ermöglichen: Epub und Amazon KF8

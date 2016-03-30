@@ -1,0 +1,1569 @@
+<posting id="1-3" author="quaki" />
+was	PWS
+echt	ADJD
+zori	NE
+?	$.
+
+<posting id="1-5" author="quaki" />
+das	PDS
+küssen	NN
+??	$.
+
+<posting id="1-6" author="Pharao" />
+na	ITJ
+gut	ADJD
+marc	NE
+.	$.
+kein	PIAT
+servicepaket	NN
+nr.	NN
+1	CARD
+für	APPR
+dich	PPER
+:)	EMOASC
+
+<posting id="1-7" author="zora" />
+was	PWS
+?	$.
+
+<posting id="1-9" author="TomcatMJ" />
+hi	ITJ
+
+<posting id="1-11" author="marc30" />
+Danke	PTKANT
+Pharao	NE
+*	$(
+erleichtertguck	AKW
+*	$(
+
+<posting id="1-12" author="quaki" />
+juhuuu	ITJ
+tom	NE
+is	VAFIN
+dada	ADV
+
+<posting id="1-13" author="zora" />
+echt	ADJD
+?	$.
+
+<posting id="1-14" author="TomcatMJ" />
+hi	ITJ
+quaki	NE
+
+<posting id="1-15" author="marc30" />
+Heyho	ITJ
+Tom	NE
+
+<posting id="1-16" author="Faryen-Angle" />
+re	ITJ
+Tom	NE
+
+<posting id="1-17" author="TomcatMJ" />
+hi	ITJ
+marc	NE
+
+<posting id="1-18" author="quaki" />
+hi	ITJ
+tom	NE
+
+<posting id="1-19" author="TomcatMJ" />
+hi	ITJ
+faryen	NE
+
+<posting id="1-20" author="TomcatMJ" />
+hi	ITJ
+zora	NE
+
+<posting id="1-21" author="zora" />
+huhu	ITJ
+tom	NE
+:)	EMOASC
+
+<posting id="1-22" author="TomcatMJ" />
+alles	PIS
+konfetti	ADJD
+bei	APPR
+euch	PPER
+?	$.
+
+<posting id="1-23" author="quaki" />
+mich	PPER
+nochmal	ADV
+zu	APPR
+hi	XY
+n	XY
+hinstell	AKW
+
+<posting id="1-26" author="Lantonie" />
+:)	EMOASC
+
+<posting id="1-27" author="quaki" />
+lantonieeeeee	NE
+
+<posting id="1-28" author="Lantonie" />
+Hallo	ITJ
+.	$.
+:)	EMOASC
+
+<posting id="1-29" author="zora" />
+LANTOOO	NE
+:)))	EMOASC
+
+<posting id="1-30" author="TomcatMJ" />
+*	$(
+mal	PTKMA
+guck	AKW
+wo	PWAV
+quaki	NE
+sich	PRF
+nu	ADV
+hinstelt	VVFIN
+*	$(
+G	AKW
+*	$(
+
+<posting id="1-31" author="quaki" />
+freu	AKW
+
+<posting id="1-32" author="zora" />
+juhuuu	ITJ
+
+<posting id="1-33" author="Lantonie" />
+Hallo	ITJ
+quaki	NE
+.	$.
+
+<posting id="1-34" author="marc30" />
+Lantöööö	NE
+:o)	EMOASC
+
+<posting id="1-35" author="TomcatMJ" />
+hi	ITJ
+lanto	NE
+
+<posting id="1-36" author="Lantonie" />
+Huhu	ITJ
+zoriiiiii	NE
+.	$.
+:)))	EMOASC
+
+<posting id="1-37" author="Lantonie" />
+re	ITJ
+Tomcat	NE
+.	$.
+
+<posting id="1-38" author="Lantonie" />
+re	ITJ
+marc	NE
+.	$.
+.)))	EMOASC
+
+<posting id="1-39" author="quaki" />
+ups	ITJ
+is	VAFIN
+das	PDS
+das	ART
+falsche	ADJA
+eck	NN
+??	$.
+
+<posting id="1-40" author="Faryen-Angle" />
+hi	ITJ
+Lantonie	NE
+
+<posting id="1-41" author="" />
+quaki	NE
+krabbelt	VVFIN
+aus	APPR
+dem	ART
+eck	NN
+raus	PTKVZ
+
+<posting id="1-42" author="Lantonie" />
+Hallo	ITJ
+Faryen	NE
+.	$.
+
+<posting id="1-43" author="Lantonie" />
+:)	EMOASC
+
+<posting id="1-44" author="Lantonie" />
+Ich	PPER
+finde	VVFIN
+den	ART
+quaki	NE
+klasse	ADJD
+,	$,
+ein	ART
+toller	ADJA
+Neuzugang	NN
+,	$,
+der	PRELS
+sich	PRF
+echt	ADJD
+bewährt	VVFIN
+.	$.
+
+<posting id="1-45" author="Lantonie" />
+:)))	EMOASC
+
+<posting id="1-46" author="Lantonie" />
+Na	ITJ
+,	$,
+zori	NE
+?	$.
+:))	EMOASC
+
+<posting id="1-47" author="marc30" />
+den	PDS
+?	$.
+
+<posting id="1-48" author="quaki" />
+*	$(
+g	AKW
+*	$(
+
+<posting id="1-49" author="quaki" />
+dange	PTKANT
+lantonie	NE
+
+<posting id="1-50" author="Lantonie" />
+Ich	PPER
+habe	VAFIN
+heute	ADV
+einen	ART
+SMS	NN
+von	APPR
+Tigaaaaelse	NE
+bekommen	VVPP
+.	$.
+
+<posting id="1-51" author="Lantonie" />
+*	$(
+erzähl	AKW
+*	$(
+
+<posting id="1-52" author="Pharao" />
+lanto	NE
+redet	VVFIN
+wie	KOKOM
+ne	ART
+bewährungshelferin	NN
+
+<posting id="1-53" author="" />
+zora	NE
+freut	VVFIN
+sich	PRF
+über	APPR
+ihr	PPOSAT
+zeugniss	NN
+:)))	EMOASC
+
+<posting id="1-54" author="quaki" />
+*	$(
+aufpluster	AKW
+*	$(
+
+<posting id="1-56" author="marc30" />
+ich	PPER
+mal	PTKMA
+wieder	ADV
+nich	PTKNEG
+...	$.
+
+<posting id="1-57" author="quaki" />
+was	PWS
+hast	VAFIN
+denn	PTKMA
+zori	NE
+??	$.
+
+<posting id="1-58" author="quaki" />
+erzähl	VVIMP
+
+<posting id="1-60" author="Lantonie" />
+Das	PDS
+hast	VAFIN
+du	PPER
+dir	PRF
+verdient	VVPP
+,	$,
+zori	NE
+?	$.
+
+<posting id="1-61" author="TomcatMJ" />
+oh	ITJ
+man	ITJ
+wat	PWS
+fürn	APPRART
+krawall	NN
+hier	ADV
+draußen	ADV
+...	$.
+*	$(
+guck	AKW
+*	$(
+
+<posting id="1-62" author="zora" />
+nur	PTKIFG
+einsen	NN
+*	$(
+brustschwell	AKW
+*	$(
+
+<posting id="1-64" author="stoeps" />
+ree	ITJ
+:-)))	EMOASC
+
+<posting id="1-65" author="Emon" />
+reee	ITJ
+
+<posting id="1-67" author="stoeps" />
+r	ITJ
+emon	NE
+
+<posting id="1-68" author="zora" />
+und	KON
+eine	ART
+eins	NN
+minus	NN
+in	APPR
+benehmen	NN
+*	$(
+ggg	AKW
+*	$(
+
+<posting id="1-69" author="Emon" />
+*	$(
+njamnjamnajm	ONO
+*	$(
+
+<posting id="1-70" author="Lantonie" />
+reee	ITJ
+stoeps	NE
+.	$.
+
+<posting id="1-71" author="quaki" />
+ohhhh	ITJ
+die	ART
+geitigkeit	NN
+kommt	VVFIN
+auch	ADV
+*	$(
+freu	AKW
+*	$(
+
+<posting id="1-72" author="marc30" />
+re	ITJ
+schdöbbs	NE
+:o)	EMOASC
+
+<posting id="1-73" author="quaki" />
++	XY
+s	AKW
+
+<posting id="1-74" author="Lantonie" />
+Hallo	ITJ
+Emon	NE
+.	$.
+
+<posting id="1-75" author="Faryen-Angle" />
+re	ITJ
+stoeps	NE
+
+<posting id="1-76" author="quaki" />
+hi	ITJ
+emon	NE
+
+<posting id="1-77" author="Emon" />
+tag	ITJ
+quaki	NE
+:)	EMOASC
+
+<posting id="1-78" author="TomcatMJ" />
+dat	PDS
+sind	VAFIN
+schätzungsweise	ADV
+200	CARD
+krähen	NN
+oder	KON
+so	ADV
+in	APPR
+nem	ART
+baum	NN
+der	PRELS
+etwa	ADV
+100	CARD
+m	NN
+weg	ADV
+is	VAFIN
+...	$.
+
+<posting id="1-79" author="stoeps" />
+quaaakiiii	NE
+
+<posting id="1-80" author="Emon" />
+und	KON
+lanto	NE
+:)	EMOASC
+
+<posting id="1-81" author="quaki" />
+hi	ITJ
+thor	NE
+
+<posting id="1-82" author="stoeps" />
+:-)	EMOASC
+
+<posting id="1-83" author="TomcatMJ" />
+hi	ITJ
+stoeps	NE
+
+<posting id="1-84" author="Emon" />
+unf	KON
+tom	NE
+:(	EMOASC
+
+<posting id="1-85" author="Emon" />
+*	$(
+g	AKW
+*	$(
+
+<posting id="1-86" author="Thor..." />
+über	APPR
+meine	PPOSAT
+benehmennote	NN
+reden	VVFIN
+wir	PPER
+lieber	ADJD
+nicht	PTKNEG
+
+<posting id="1-87" author="TomcatMJ" />
+hi	ITJ
+emon	NE
+
+<posting id="1-88" author="quaki" />
+200	CARD
+krähen	NN
+?	$.
+
+<posting id="1-89" author="TomcatMJ" />
+jo	PTKANT
+..	$.
+
+<posting id="1-90" author="Lantonie" />
+Die	ART
+eins	NN
+Minus	NN
+hast	VAFIN
+du	PPER
+bekommen	VVPP
+,	$,
+weil	KOUS
+du	PPER
+eine	ART
+Zeitlang	NN
+häufti	ADJD
+gesagt	VVPP
+hast	VAFIN
+.	$.
+
+<posting id="1-91" author="marc30" />
+was	PWS
+ist	VAFIN
+Benehmen	NN
+?	$.
+
+<posting id="1-92" author="quaki" />
+die	ART
+vögel	NN
+
+<posting id="1-95" author="Thor..." />
+hi	ITJ
+quaki	NE
+,	$,
+lantonie	NE
+
+<posting id="1-97" author="Lantonie" />
+*	$(
+hehe	ITJ
+*	$(
+
+<posting id="1-98" author="" />
+stoeps	NE
+gibt	VVFIN
+thor	NE
+eine	ART
+6	NN
+
+<posting id="1-99" author="Lantonie" />
+Stimmts	VVPPER
+?	$.
+
+<posting id="1-100" author="quaki" />
+schtöps	NE
+
+<posting id="1-101" author="Lantonie" />
+:)))	EMOASC
+
+<posting id="1-103" author="Lantonie" />
+*	$(
+looool	AKW
+*	$(
+
+<posting id="1-104" author="Lantonie" />
+zori	NE
+?	$.
+
+<posting id="1-105" author="Erdbeere$" />
+re	ITJ
+
+<posting id="1-106" author="zora" />
+*	$(
+lach	AKW
+*	$(
+
+<posting id="1-107" author="Pharao" />
+tach	ITJ
+erdbäre	NE
+
+<posting id="1-108" author="Lantonie" />
+Hallo	ITJ
+Erdbeere	NE
+.	$.
+
+<posting id="1-109" author="marc30" />
+Hallo	ITJ
+Beere	NE
+:)	EMOASC
+
+<posting id="1-110" author="" />
+Lantonie	NE
+kann	VMFIN
+ihre	PPOSAT
+Noten	NN
+begründen	VVINF
+.	$.
+
+<posting id="1-111" author="Emon" />
+mann	ITJ
+,	$,
+habe	VAFIN
+tatsächlich	ADJD
+was	PIAT
+verdauliches	NN
+gegessen	VVPP
+...	$.
+:)	EMOASC
+
+<posting id="1-112" author="TomcatMJ" />
+da	ADV
+is	VAFIN
+sone	ADVART
+etwa	PTKIFG
+25	CARD
+m	NN
+hohe	ADJA
+pappel	NN
+wo	PWAV
+die	PDS
+drinsitzen	VVFIN
+und	KON
+rumzetern	VVFIN
+*	$(
+G	AKW
+*	$(
+
+<posting id="1-113" author="Erdbeere$" />
+hallo	ITJ
+lanto	NE
+
+<posting id="1-114" author="quaki" />
+die	ART
+viecha	NN
+reissen	VVFIN
+imma	ADV
+die	ART
+müllsäcke	NN
+auf	PTKVZ
+hmmmm	ITJ
+
+<posting id="1-115" author="stoeps" />
+stoeps	NE
+auch	ADV
+
+<posting id="1-116" author="stoeps" />
+*	$(
+g	AKW
+*	$(
+
+<posting id="1-117" author="Emon" />
+re	ITJ
+beere	NE
+
+<posting id="1-118" author="Lantonie" />
+Und	KON
+,	$,
+ausserdem	PAV
+ist	VAFIN
+zora	NE
+ja	PTKMA
+meine	PPOSAT
+Lieblingsschülerin	NN
+hier	ADV
+.	$.
+
+<posting id="1-119" author="Lantonie" />
+:))	EMOASC
+
+<posting id="1-120" author="Thor..." />
+oh	ITJ
+stoeps	NE
+hab	VAFIN
+ich	PPER
+dir	PPER
+was	PIS
+getan	VVPP
+?	$.
+
+<posting id="1-121" author="Erdbeere$" />
+hallo	ITJ
+pharao	NE
+
+<posting id="1-122" author="zora" />
+:)))	EMOASC
+
+<posting id="1-123" author="quaki" />
+weißpappel	NN
+oder	KON
+schwarzpappel	NN
+?	$.
+
+<posting id="1-124" author="Lantonie" />
+süße	ADJA
+kleine	ADJA
+zora	NE
+.	$.
+
+<posting id="1-125" author="Erdbeere$" />
+hello	ITJ
+marci	NE
+
+<posting id="1-126" author="zora" />
+8:)	EMOASC
+
+<posting id="1-127" author="Lantonie" />
+*	$(
+hach	ITJ
+*	$(
+
+<posting id="1-128" author="" />
+zora	NE
+bringt	VVFIN
+Lanto	NE
+einen	ART
+Apfel	NN
+mit	PTKVZ
+
+<posting id="1-129" author="TomcatMJ" />
+keine	PIAT
+ahnung	NN
+,	$,
+eine	ART
+die	PRELS
+zur	APPRART
+blütezeit	NN
+wohl	PTKMA
+immer	ADV
+diese	PDAT
+berge	NN
+weißer	ADJA
+flocken	NN
+von	APPR
+sich	PRF
+wirft	VVFIN
+...	$.
+
+<posting id="1-130" author="quaki" />
+und	KON
+wo	PWAV
+is	VAFIN
+ein	ART
+apfel	NN
+für	APPR
+mich	PPER
+??	$.
+
+<posting id="1-131" author="Lantonie" />
+Ah	ITJ
+,	$,
+sehr	PTKIFG
+gesund	ADJD
+.	$.
+
+<posting id="1-133" author="Lantonie" />
+*	$(
+freu	AKW
+*	$(
+
+<posting id="1-134" author="stoeps" />
+tom	NE
+ist	VAFIN
+ja	PTKMA
+immer	PTKMWL
+noch	PTKMWL
+da	ADV
+
+<posting id="1-135" author="Emon" />
+*	$(
+wilhelm	NE
+busch	NE
+zitier	AKW
+*	$(
+und	KON
+vom	APPRART
+ganzen	ADJA
+hühnerschmaus	NN
+schaut	VVFIN
+nur	PTKIFG
+noch	ADV
+ein	ART
+bein	NN
+heraus	PTKVZ
+...	$.
+
+<posting id="1-136" author="quaki" />
+dann	ADV
+is	VAFIN
+eine	ART
+hmmmmm	ITJ
+
+<posting id="1-137" author="marc30" />
+sie	PPER
+zieht	VVFIN
+nach	APPR
+Hannover	NE
+,	$,
+net	PTKNEG
+nach	APPR
+Wien	NE
+
+<posting id="1-138" author="Lantonie" />
+Warst	VAFIN
+du	PPER
+vom	APPRART
+Zeugnis	NN
+überraschtß	VVPP
+
+<posting id="1-139" author="quaki" />
+das	PDS
+kommt	VVFIN
+auf	APPR
+die	ART
+rinde	NN
+drauf	PAV
+an	PTKVZ
+
+<posting id="1-140" author="Lantonie" />
+?	$.
+
+<posting id="1-141" author="TomcatMJ" />
+auf	APPR
+jedenfall	NN
+mit	APPR
+ner	ART
+wolke	NN
+schwarzer	ADJA
+vögel	NN
+drüber	PAV
+und	KON
+drin	PAV
+:-)	EMOASC
+
+<posting id="1-142" author="Lantonie" />
+:)	EMOASC
+
+<posting id="1-144" author="quaki" />
+wie	PWAV
+die	PDS
+ausschaut	VVFIN
+
+<posting id="1-145" author="zora" />
+ja	PTKANT
+wo	PWAV
+ich	PPER
+doch	PTKMA
+kaum	PIAT
+was	PIS
+dafür	PAV
+getan	VVPP
+hab	VAFIN
++s*	AKW
+
+<posting id="1-146" author="TomcatMJ" />
+is	VAFIN
+so	ADV
+ne	ART
+grobe	ADJA
+rinde	NN
+..	$.
+
+<posting id="1-147" author="stoeps" />
+warum	PWAV
+wird	VAFIN
+tom	NE
+nicht	PTKNEG
+aus	APPR
+dem	ART
+chat	NN
+enfernt	VVPP
+?	$.
+*	$(
+g	AKW
+*	$(
+
+<posting id="1-148" author="" />
+zora	NE
+bewirbt	VVFIN
+sich	PRF
+damit	PAV
+mal	ADV
+um	APPR
+stipendien	NN
+an	APPR
+den	ART
+unis	NN
+*	$(
+s	AKW
+*	$(
+
+<posting id="1-149" author="marc30" />
+Krieg	VVFIN
+ich	PPER
+auch	ADV
+ein	ART
+Zeugnis	NN
+?	$.
+
+<posting id="1-150" author="quaki" />
+die	PDS
+habn	VAFIN
+aber	ADV
+so	ADV
+schönes	ADJA
+gefieder	NN
+und	KON
+sind	VAFIN
+nicht	PTKNEG
+dumm	ADJD
+
+<posting id="1-151" author="Lantonie" />
+*	$(
+lach	AKW
+*	$(
+
+<posting id="1-152" author="TomcatMJ" />
+weil	KOUS
+ich	PPER
+hartnäckig	ADJD
+bin	VAFIN
+stoeps	NE
+:-)	EMOASC
+
+<posting id="1-153" author="" />
+stoeps	NE
+auch	ADV
+
+<posting id="1-154" author="stoeps" />
+*	$(
+g	AKW
+*	$(
+
+<posting id="1-155" author="" />
+quaki	NE
+bindet	VVFIN
+tom	NE
+am	APPRART
+chat	NN
+fest	PTKVZ
+
+<posting id="1-156" author="quaki" />
+*	$(
+knüpf	AKW
+*	$(
+
+<posting id="1-157" author="Emon" />
+zora	NE
+bewirbt	VVFIN
+sich	PRF
+womit	PWAV
+um	APPR
+stipendien	NN
+?	$.
+nen	ART
+apfel	NN
+?	$.
+
+<posting id="1-158" author="" />
+stoeps	NE
+schreibt	VVFIN
+ne	ART
+beschwerde	NN
+an	APPR
+unicum	NE
+
+<posting id="1-159" author="zora" />
+ne	PTKANT
+mit	APPR
+meinem	PPOSAT
+zeugniss	NN
+,	$,
+ich	PPER
+bin	VAFIN
+ja	PTKMA
+nich	PTKNEG
+doof	ADJD
+!	$.
+
+<posting id="1-160" author="TomcatMJ" />
+eh	ITJ
+!	$.
+*	$(
+rupf	AKW
+,	$,
+zerr	AKW
+,	$,
+reiss	AKW
+,	$,
+mich	PRF
+losmach	AKW
+*	$(
+
+<posting id="1-161" author="quaki" />
+hmm	ITJ
+der	ART
+paris	NE
+war	VAFIN
+ein	ART
+ganz	PTKIFG
+schön	ADJD
+dämlcher	NN
+
+<posting id="1-162" author="Emon" />
+ah	ITJ
+soo	ADV
+
+<posting id="1-163" author="TomcatMJ" />
+*	$(
+nicht	PTKNEG
+festgebunden	ADJD
+sein	VAINF
+mag	VMFIN
+*	$(
+
+<posting id="1-164" author="Emon" />
+welches	PWAT
+ezugnis	NN
+?	$.
+klärt	VVFIN
+mich	PPER
+mal	PTKMA
+jemand	PIS
+über	APPR
+den	ART
+sachverhalt	NN
+auf	PTKVZ
+?	$.
+
+<posting id="1-165" author="quaki" />
+*	$(
+nagut50cmlauflaufleine	AKW
+*	$(
+
+<posting id="1-166" author="Erdbeere$" />
+thor	NE
+
+<posting id="1-167" author="Thor..." />
+tach	ITJ
+erdbeere	NE
+
+<posting id="1-168" author="Erdbeere$" />
+hello	ITJ
+
+<posting id="1-169" author="marc30" />
+wie	KOUS
+großzügig	ADJD
+quaki	NE
+manchmal	ADV
+ist	VAFIN
+...	$.
+
+<posting id="1-170" author="Emon" />
+*	$(
+wart	AKW
+*	$(
+
+<posting id="1-171" author="Erdbeere$" />
+kommst	VVFIN
+du	PPER
+zum	APPRART
+ct	NN
+?	$.
+
+<posting id="1-172" author="quaki" />
+*	$(
+51cm	NN
+*	$(
+
+<posting id="1-173" author="stoeps" />
+51	CARD
+?	$.
+
+<posting id="1-174" author="TomcatMJ" />
+*	$(
+leine	NN
+durchbeiss	AKW
+*	$(
+
+<posting id="1-175" author="Thor..." />
+wenn	KOUS
+zora	NE
+und	KON
+lantonie	NE
+absagen	VVFIN
+ja	PTKANT
+*	$(
+g	AKW
+*	$(
+
+<posting id="1-176" author="stoeps" />
+ui	ITJ
+
+<posting id="1-177" author="Emon" />
+danke	PTKANT
+!	$.
+*	$(
+brml	AKW
+*	$(
+
+<posting id="1-179" author="quaki" />
+*	$(
+neuesuch	AKW
+*	$(
+
+<posting id="1-180" author="marc30" />
+die	PDS
+haben	VAFIN
+doch	PTKMA
+noch	ADV
+gar	PTKMWL
+net	PTKNEG
+zugesagt	VVPP
+,	$,
+oder	KON
+?	$.
+
+<posting id="1-181" author="stoeps" />
+re	ITJ
+shad	NE
+
+<posting id="1-182" author="Emon" />
+re	ITJ
+sahd	NE
+
+<posting id="1-183" author="Erdbeere$" />
+*	$(
+g	AKW
+*	$(
+
+<posting id="1-184" author="Shadok" />
+Gnu	NE
+stoeps	NE
+,	$,
+Emon	NE
+
+<posting id="1-185" author="marc30" />
+Holla	ITJ
+Shaddy	NE
+:)	EMOASC
+
+<posting id="1-186" author="zora" />
+emon	NE
+:	$(
+http://mitglied.lycos.de/achtpfennig/zeugnis.jpg	URL
+
+<posting id="1-187" author="Erdbeere$" />
+wieso	PWAV
+das	PDS
+denn	PTKMA
+?	$.
+
+<posting id="1-188" author="stoeps" />
+*	$(
+s	AKW
+*	$(
+
+<posting id="1-189" author="Shadok" />
+heya	ITJ
+marc30	NE
+;o)	EMOASC
+
+<posting id="1-190" author="Erdbeere$" />
+re	ITJ
+baby	NN
+
+<posting id="1-191" author="quaki" />
+hi	ITJ
+shadok	NE
+
+<posting id="1-192" author="TomcatMJ" />
+*	$(
+auf	APPR
+bruam	NN
+raufkletter	AKW
+um	KOUI
+nich	PTKNEG
+angeleint	VVPP
+zu	PTKZU
+werden	VAINF
+*	$(
+
+<posting id="1-193" author="Lantonie" />
+http://www.cu-here.de/showchat.php3?id=69&offset=159	URL
+
+<posting id="1-194" author="Shadok" />
+tag	ITJ
+quaki	NE
+
+<posting id="1-195" author="zora" />
+erste	NN
+!	$.
+:)	EMOASC
+
+<posting id="1-196" author="" />
+hmmm	ITJ
+quaki	NE
+sucht	VVFIN
+ein	ART
+m	NN
+
+<posting id="1-197" author="TomcatMJ" />
+*	$(
+g	AKW
+*	$(
+bruam	NN
+=	$(
+baum	NN
+
+<posting id="1-198" author="Lantonie" />
+*	$(
+ts	ITJ
+*	$(
+
+<posting id="1-199" author="zora" />
+*	$(
+fleisssternchen	NN
+aufkleb	AKW
+*	$(
+
+<posting id="1-200" author="quaki" />
+leinbruam	NN
+
+<posting id="1-201" author="" />
+Shadok	NE
+schenkt	VVFIN
+quaki	NE
+ein	ART
+m	NN
+
+<posting id="1-202" author="Lantonie" />
+Hallo	ITJ
+Shadok	NE
+.	$.
+
+<posting id="1-203" author="zora" />
+weiß	VVFIN
+jetzt	ADV
+jemand	PIS
+was	PWS
+umzugsunternehmen	NN
+so	PTKMA
+kosten	VVFIN
+?	$.
+
+<posting id="1-204" author="quaki" />
+danke	PTKANT
+shadok	NE
+
+<posting id="1-205" author="Shadok" />
+bitte	PTKANT
+schön	ADJD
+.	$.
+
+<posting id="1-206" author="Shadok" />
+heya	ITJ
+Lanto	NE
+;o)	EMOASC
+
+<posting id="1-207" author="Lantonie" />
+;O)	EMOASC
+
+<posting id="1-208" author="Shadok" />
+geld	NN
+zorsa	NE
+
+<posting id="1-209" author="Shadok" />
+*	$(
+zora	NE
+
+<posting id="1-210" author="Pharao" />
+teuer	ADJD
+.	$.
+geht	VVFIN
+nich	PTKNEG
+selber	ADV
+machen	VVINF
+mit	APPR
+mietwagen	NN
+?	$.
+
+<posting id="1-211" author="Shadok" />
+meistens	ADV
+euro	NN
+
+<posting id="1-212" author="Shadok" />
+;o)	EMOASC
+
+<posting id="1-213" author="zora" />
+verdammt	ADJD
+,	$,
+das	PDS
+hab	VAFIN
+ich	PPER
+befürchtet	VVPP
+shaddy	NE
+:P	EMOASC
+
+<posting id="1-214" author="Lantonie" />
+Ich	PPER
+hatte	VAFIN
+erst	ADV
+Zweifel	NN
+,	$,
+ob	KOUS
+du	PPER
+überhaupt	PTKMA
+ein	ART
+Zeugnis	NN
+willst	VMFIN
+.	$.
+
+<posting id="1-215" author="Lantonie" />
+Immer	ADV
+bewerte	VVFIN
+ich	PPER
+dich	PPER
+dann	ADV
+ja	PTKMA
+.	$.
+
+<posting id="1-216" author="Lantonie" />
+:O)	EMOASC
+
+<posting id="1-217" author="Bochum" />
+laß	VVIMP
+es	PPER
+leiber	ADV
+zor	NE
+
+<posting id="1-218" author="quaki" />
+kA	NN
+was	PWS
+das	PDS
+kostet	VVFIN
+
+<posting id="1-219" author="Lantonie" />
+Aber	ADV
+,	$,
+ich	PPER
+dachte	VVFIN
+,	$,
+du	PPER
+hälst	VVFIN
+das	PDS
+schon	PTKMA
+aus	PTKVZ
+.	$.
+
+<posting id="1-220" author="Lantonie" />
+*	$(
+tapfere	ADJA
+kleine	ADJA
+zoraaaay	NE
+*	$(
+
+<posting id="1-221" author="" />
+quaki	NE
+wüsste	VVFIN
+nich	PTKNEG
+wo	PWAV
+sie	PPER
+hinziehn	VVINF
+sollte	VMFIN
+
+<posting id="1-222" author="TomcatMJ" />
+unternehmen	NN
+???	$.
+eigentlich	ADJD
+kostet	VVFIN
+sowas	PIS
+die	ART
+miete	NN
+für	APPR
+nen	ART
+lkw	NN
+für	APPR
+nen	ART
+tag	NN
+und	KON
+verköstigung	NN
+für	APPR
+nen	ART
+haufen	NN
+helfender	ADJA
+freunde	NN
+@zora	ADR
+
+<posting id="1-223" author="Bochum" />
+bochum	NE
+-	$(
+münster	NE
+ohne	APPR
+küche	NN
+3500	CARD
+euro	NN
+..	$.
+
+<posting id="1-224" author="zora" />
+der	ART
+mietwagen	NN
+kostet	VVFIN
+auf	APPR
+die	ART
+entfernung	NN
+schon	ADV
+ein	ART
+vermögen	NN
+
+<posting id="1-225" author="zora" />
+uffz	ITJ
+bochum	NE
+
+<posting id="1-226" author="Shadok" />
+am	PTKA
+besten	ADJD
+nach	APPR
+deutschland	NE
+quaki	NE
+
+<posting id="1-227" author="Shadok" />
+is	VAFIN
+nich	PTKNEG
+soweit	ADV
+weg	ADV
+
+<posting id="1-228" author="Pharao" />
+aber	KON
+sicher	ADJD
+billiger	ADJD
+als	KOKOM
+ne	ART
+firma	NN
+
+<posting id="1-232" author="Lantonie" />
+Ja	PTKANT
+,	$,
+auf	APPR
+jedenfall	NN
+!	$.
+
+<posting id="1-233" author="stoeps" />
+sowas	PIS
+
+<posting id="1-234" author="Shadok" />
+wb	ITJ
+stoeps	NE
+
+<posting id="1-235" author="Bochum" />
+wagen	NN
+von	APPR
+intererent	NE
+und	KON
+ein	ART
+paar	PIDAT
+leute	NN
+zum	APPRART
+anpacken	NN
+
+<posting id="1-236" author="stoeps" />
+*	$(
+brml	AKW
+*	$(
+
+<posting id="1-237" author="Thor..." />
+ja	PTKANT
+pharao	NE
+
+<posting id="1-238" author="Lantonie" />
+zoar	NE
+ist	VAFIN
+hoch	PTKIFG
+kreativ	ADJD
+!	$.
+
+<posting id="1-240" author="Thor..." />
+re	ITJ
+stoeps	NE
+...	$.
+
+<posting id="1-241" author="Lantonie" />
+Was	PWS
+ihr	PPER
+alles	PIS
+so	PTKMA
+einfällt	VVFIN
+,	$,
+da	PAV
+kommt	VVFIN
+kein	PIAT
+Mensch	NN
+drauf	PAV
+.	$.
+
+<posting id="1-242" author="TomcatMJ" />
+hi	ITJ
+asja	NE
+
+<posting id="1-243" author="" />
+quaki	NE
+fragt	VVFIN
+sich	PRF
+wie	PWAV
+sie	PPER
+mit	APPR
+augenschaden	NN
+den	ART
+nachmittag	NN
+überstehn	VVINF
+soll	VMFIN
+
+<posting id="1-244" author="Lantonie" />
+re	ITJ
+stoeps	NE
+.	$.
+
+<posting id="1-245" author="marc30" />
+heyho	ITJ
+Asja	NE
+
+<posting id="1-246" author="Erdbeere$" />
+hello	ITJ
+asja	NE
+
+<posting id="1-247" author="zora" />
+ich	PPER
+wollt	VMFIN
+ja	PTKMA
+vergleichen	VVINF
+tom	NE
+weils	KOUSPPER
+eh	PTKMA
+so	ADV
+teuer	ADJD
+ist	VAFIN
+wenn	KOUS
+das	PDS
+keinen	PIAT
+so	ADV
+grossen	ADJA
+unterschied	NN
+macht	VVFIN
+wärs	VAPPER
+ja	PTKMA
+mal	PTKMA
+drin	PAV
+
+<posting id="1-248" author="Bochum" />
+am	PTKA
+besten	ADJD
+welche	PDS
+was	PIAT
+handwerkliches	NN
+machen	VVFIN
+
+<posting id="1-249" author="Asja" />
+Hallo	ITJ
+Tom	NE
+:)	EMOASC
+
+<posting id="1-250" author="stoeps" />
+ree	ITJ
+
+<posting id="1-251" author="Asja" />
+hi	ITJ
+marc	NE
+:)	EMOASC
+
+<posting id="1-252" author="Asja" />
+huhu	ITJ
+Frau	NN
+Beere	NE
+*	$(
+Drück	AKW
+*	$(
+
+<posting id="1-253" author="Bochum" />
+und	KON
+nimm	VVIMP
+nicht	PTKNEG
+den	ART
+billigsten	ADJA
+
+<posting id="1-254" author="Shadok" />
+nicht	PTKNEG
+chatten	VVINF
+quaki	NE
+?	$.
+;o)	EMOASC
+
+<posting id="1-255" author="quaki" />
+Bochum	NE
+in	APPR
+den	ART
+kleiderkasten	NN
+schick	AKW
+zum	APPRART
+umziehn	NN
+
+<posting id="1-256" author="Erdbeere$" />
+*	$(
+mitdrück	AKW
+*	$(
+
+<posting id="1-257" author="Emon" />
+naja	ITJ
+,	$,
+auf	APPR
+das	PDS
+was	PRELS
+mir	PPER
+so	PTKMA
+einfällt	VVFIN
+kommt	VVFIN
+auch	ADV
+meist	ADV
+keine	PIAT
+sau	NN
+drauf	PTKVZ
+*	$(
+g	AKW
+*	$(

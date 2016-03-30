@@ -1,0 +1,645 @@
+<posting id="1300" author="Participant_7" date="9. Okt., 18:51" />
+Mein	PPOSAT
+Papa	NN
+hat	VAFIN
+zwei	CARD
+große	ADJA
+Blöcke	NN
+super	PTKIFG
+hartes	ADJA
+Styropor	NN
+und	KON
+wir	PPER
+haben	VAFIN
+mal	PTKMA
+das	ART
+teil	NN
+daraus	PAV
+geschnitzt	VVPP
+,	$,
+wo	KOUS
+die	ART
+haken	NN
+rauskommen	VVFIN
+.	$.
+emojiQsmilingFaceWithOpenMouthAndSmilingEyes	EMOIMG
+
+<posting id="1305" author="Participant_8" date="9. Okt., 21:13" />
+Uuuh	ITJ
+das	PDS
+sieht	VVFIN
+voll	PTKIFG
+gut	ADJD
+aus	PTKVZ
+*_*	EMOASC
+Und	KON
+der	ART
+pilzkopferwin	NE
+auch	ADV
+xD	EMOASC
+
+<posting id="1306" author="Participant_7" date="9. Okt., 21:16" />
+Nadine	NE
+bestellt	VVFIN
+sich	PRF
+jetzt	ADV
+nen	ART
+Styroporschneider	NN
+für	APPR
+die	ART
+Grigfe	NN
+und	KON
+macht	VVFIN
+nen	ART
+Prototyp	NN
+.	$.
+emojiQsmilingFaceWithSmilingEyes	EMOIMG
+und	KON
+den	ART
+perfekten	ADJA
+Lack	NN
+für	APPR
+die	ART
+Klingen	NN
+hab	VAFIN
+ich	PPER
+auch	ADV
+schon	ADV
+gefunden	VVPP
+.	$.
+Müssen	VMFIN
+uns	PRF
+bald	ADV
+mal	PTKMA
+wieder	ADV
+treffen	VVINF
+.	$.
+emojiQkissingCatFaceWithClosedEyes	EMOIMG
+
+<posting id="1307" author="Participant_8" date="9. Okt., 21:17" />
+Au	ITJ
+ja	PTKANT
+!	$.
+:)	EMOASC
+unbedingt	ADJD
+!	$.
+*_*	EMOASC
+
+<posting id="1308" author="Participant_7" date="9. Okt., 21:21" />
+Dann	ADV
+kann	VMFIN
+ich	PPER
+dir	PPER
+alles	PIS
+zeigen	VVINF
+.	$.
+Man	ITJ
+ich	PPER
+bin	VAFIN
+schon	ADV
+so	PTKIFG
+aufgeregt	ADJD
+.	$.
+emojiQflushedFace	EMOIMG
+
+<posting id="1309" author="Participant_8" date="9. Okt., 21:22" />
+Jaaaa	PTKANT
+!	$.
+Hehe	ITJ
+ich	PPER
+auch	ADV
+xD	EMOASC
+
+<posting id="1310" author="Participant_7" date="9. Okt., 21:23" />
+Das	PDS
+wird	VAFIN
+so	PTKIFG
+gut	ADJD
+.	$.
+emojiQsmilingCatFaceWithHeartShapedEyes	EMOIMG
+
+<posting id="1311" author="Participant_8" date="9. Okt., 21:23" />
+Jaa	PTKANT
+auf	APPR
+jedenfall	NN
+!	$.
+:)	EMOASC
+
+<posting id="1312" author="Participant_7" date="9. Okt., 21:25" />
+Und	KON
+Sushi	NN
+müssen	VMFIN
+wir	PPER
+auch	ADV
+mal	PTKMA
+wieder	ADV
+essen	VVINF
+gehen	VVINF
+.	$.
+
+<posting id="1313" author="Participant_8" date="9. Okt., 21:25" />
+Hehe	ITJ
+:)	EMOASC
+das	PDS
+klingt	VVFIN
+gut	ADJD
+auch	ADV
+wenn	KOUS
+ich	PPER
+schon	PTKMA
+voll	PTKIFG
+pleite	ADV
+bin	VAFIN
+xD	EMOASC
+
+<posting id="1314" author="Participant_7" date="9. Okt., 21:27" />
+Ich	PPER
+doch	PTKMA
+auch	ADV
+.	$.
+XD	EMOASC
+
+<posting id="1315" author="Participant_8" date="9. Okt., 21:27" />
+XD	EMOASC
+
+<posting id="1318" author="Participant_8" date="18. Okt., 13:27" />
+Ahahahaha	ITJ
+!	$.
+Wie	PTKIFG
+herrlich	ADJD
+!	$.
+XD	EMOASC
+
+<posting id="1319" author="Participant_7" date="18. Okt., 13:37" />
+Der	PDS
+hat	VAFIN
+soviel	PIAT
+Potenzial	NN
+.	$.
+
+<posting id="1321" author="Participant_8" date="18. Okt., 13:38" />
+Ooh	ITJ
+mann	NN
+,	$,
+wie	PTKIFG
+herrlich	ADJD
+!	$.
+Ich	PPER
+liebe	VVFIN
+dich	PPER
+dafür	PAV
+!	$.
+XD	EMOASC
+
+<posting id="1323" author="Participant_8" date="18. Okt., 16:17" />
+XD	EMOASC
+ooh	ITJ
+mann	NN
+!	$.
+
+<posting id="1325" author="Participant_8" date="18. Okt., 16:56" />
+Oha	ITJ
+,	$,
+gryffindor	NE
+?	$.
+XD	EMOASC
+
+<posting id="1327" author="Participant_8" date="18. Okt., 17:12" />
+XD	EMOASC
+du	PPER
+killst	VVFIN
+mich	PPER
+!	$.
+Soooo	PTKIFG
+herrlich	ADJD
+xDD	EMOASC
+
+<posting id="1328" author="Participant_7" date="18. Okt., 17:13" />
+Das	PDS
+macht	VVFIN
+so	ADV
+Spaß	NN
+.	$.
+emojiQcatFaceWithWrySmile	EMOIMG
+
+<posting id="1330" author="Participant_8" date="18. Okt., 17:20" />
+Uuuuh	ITJ
+xD	EMOASC
+jaa	PTKANT
+!	$.
+
+<posting id="1331" author="Participant_7" date="18. Okt., 20:10" />
+Ich	PPER
+denk	VVFIN
+mir	PRF
+heute	ADV
+sicher	ADJD
+noch	PTKMA
+mehr	PIS
+machen	VVFIN
+.	$.
+emojiQkissingCatFaceWithClosedEyes	EMOIMG
+
+<posting id="1335" author="Participant_7" date="18. Okt., 21:53" />
+Ich	PPER
+glaube	VVFIN
+,	$,
+ich	PPER
+bleibe	VVFIN
+bei	APPR
+Janosch	NE
+.	$.
+emojiQpersonFrowning	EMOIMG
+
+<posting id="1336" author="Participant_8" date="18. Okt., 22:39" />
+Ja	PTKANT
+...	$(
+benedikt	NE
+sind	VAFIN
+irgendwie	ADV
+etwas	PTKIFG
+seltsam	ADJD
+aus	PTKVZ
+xD	EMOASC
+
+<posting id="1337" author="Participant_7" date="18. Okt., 22:56" />
+Ich	PPER
+weiß	VVFIN
+...	$(
+dabei	PAV
+hab	VAFIN
+ich	PPER
+mit	PRF
+voll	PTKIFG
+Mühe	NN
+gegeben	VVPP
+.	$.
+emojiQpersonFrowning	EMOIMG
+
+<posting id="1338" author="Participant_8" date="18. Okt., 22:56" />
+Hm	ITJ
+hm	ITJ
+:)	EMOASC
+
+<posting id="1339" author="Participant_7" date="18. Okt., 22:59" />
+Speckige	ADJA
+Fettfinger	NN
+machen	VVFIN
+sich	PRF
+schlecht	ADJD
+.	$.
+emojiQcatFaceWithWrySmile	EMOIMG
+
+<posting id="1340" author="Participant_8" date="18. Okt., 22:59" />
+XD	EMOASC
+
+<posting id="1343" author="Participant_8" date="19. Okt., 11:47" />
+Hahaha	ITJ
+es	PPER
+ist	VAFIN
+sooo	PTKIFG
+herrlich	ADJD
+!	$.
+:)	EMOASC
+
+<posting id="1344" author="Participant_8" date="24. Okt., 14:50" />
+Huhu	ITJ
+!	$.
+:)	EMOASC
+Ich	PPER
+hab	VAFIN
+jetzt	ADV
+erfahren	VVPP
+,	$,
+wann	KOUS
+die	ART
+halloweenparty	NN
+ist	VAFIN
+:	$(
+am	APPRART
+31.	ADJA
+:)	EMOASC
+haste	VAPPER
+lust	NN
+?	$.
+:)	EMOASC
+
+<posting id="1345" author="Participant_7" date="24. Okt., 14:52" />
+Ich	PPER
+muss	VMFIN
+mal	PTKMA
+schauen	VVINF
+.	$.
+Meine	PPOSAT
+Schwester	NN
+kommt	VVFIN
+ja	PTKMA
+am	APPRART
+Sonntag	NN
+und	KON
+dann	ADV
+erfahre	VVFIN
+ich	PPER
+,	$,
+wie	PWAV
+lange	ADJD
+sie	PPER
+bleibt	VVFIN
+.	$.
+emojiQcatFaceWithWrySmile	EMOIMG
+
+<posting id="1346" author="Participant_8" date="24. Okt., 14:53" />
+:)	EMOASC
+alles	PIS
+klar	ADJD
+
+<posting id="1348" author="Participant_8" date="25. Okt., 14:11" />
+Aaah	ITJ
+,	$,
+wie	PTKIFG
+cool	ADJD
+*_*	EMOASC
+Wollen	VMFIN
+wir	PPER
+uns	PRF
+eigentlich	ADV
+nächste	ADJA
+woche	NN
+nochmal	ADV
+treffen	VVINF
+oder	KON
+so	ADV
+?	$.
+;)	EMOASC
+
+<posting id="1349" author="Participant_7" date="25. Okt., 14:13" />
+Ja	PTKANT
+,	$,
+natürlich	ADJD
+.	$.
+Muss	VMFIN
+nur	ADV
+schauen	VVINF
+wegen	APPR
+Uni	NN
+.	$.
+emojiQkissingCatFaceWithClosedEyes	EMOIMG
+
+<posting id="1350" author="Participant_7" date="25. Okt., 14:31" />
+Am	PTKA
+besten	ADJD
+wär's	VAPPER
+Freitag	NN
+,	$,
+aber	KON
+da	ADV
+ist	VAFIN
+ja	PTKMA
+auch	ADV
+die	ART
+party	NN
+,	$,
+ne	ITJ
+?	$.
+emojiQwearyFace	EMOIMG
+
+<posting id="1351" author="Participant_8" date="25. Okt., 15:51" />
+Ja	PTKANT
+,	$,
+da	ADV
+ist	VAFIN
+auch	ADV
+die	ART
+party	NN
+...	$(
+also	ADV
+eher	PTKIFG
+doof	ADJD
+xD	EMOASC
+
+<posting id="1352" author="Participant_8" date="26. Okt., 20:45" />
+Hm	ITJ
+...	$(
+und	KON
+sonst	ADV
+gehts	VVPPER
+gar	PTKIFG
+nicht	PTKNEG
+?	$.
+Hm	ITJ
+...	$.
+Und	KON
+weißt	VVFIN
+du	PPER
+schon	ADV
+wegen	APPR
+Freitag	NN
+?	$.
+(	$(
+Weil	KOUS
+ich	PPER
+wegen	APPR
+nem	ART
+Kostüm	NN
+überlege	VVFIN
+,	$,
+aber	KON
+allein	ADV
+will	VMFIN
+ich	PPER
+eben	PTKMA
+nicht	PTKNEG
+xD	EMOASC
+)	$(
+
+<posting id="1353" author="Participant_7" date="26. Okt., 21:11" />
+Meinst	VVFIN
+du	PPER
+,	$,
+ich	PPER
+könnt	VMFIN
+Nadine	NE
+mitnehmen	VVINF
+?	$.
+emojiQcatFaceWithWrySmile	EMOIMG
+und	KON
+Donnerstag	NN
+Nachmittag	NN
+ging	VVFIN
+bei	APPR
+uns	PPER
+auch	ADV
+noch	PTKMA
+.	$.
+Dann	ADV
+lass	VVFIN
+ich	PPER
+einmal	ADV
+Latein	NN
+ausfallen	VVINF
+.	$.
+
+<posting id="1354" author="Participant_8" date="26. Okt., 21:42" />
+Klar	PTKANT
+,	$,
+warum	PWAV
+nicht	PTKNEG
+?	$.
+(	$(
+Wie	PWAV
+alt	ADJD
+ist	VAFIN
+nadine	NE
+nochmal	ADV
+?	$.
+XD	EMOASC
+)	$(
+Ach	ITJ
+,	$,
+du	PPER
+musst	VMFIN
+doch	PTKMA
+nicht	PTKNEG
+latein	NN
+ausfallen	VVINF
+lassen	VVINF
+!	$.
+Muss	VMFIN
+ja	PTKMA
+auch	PTKMA
+nicht	PTKNEG
+lange	ADJD
+sein	VAINF
+-	$(
+ich	PPER
+will	VMFIN
+euch	PPER
+nur	PTKMA
+unbedingt	ADJD
+helfen	VVINF
+xD	EMOASC
+
+<posting id="1355" author="Participant_7" date="26. Okt., 22:29" />
+Nadine	NN
+ist	VAFIN
+16	CARD
+emojiQcatFaceWithWrySmile	EMOIMG
+Ach	ITJ
+was	ITJ
+,	$,
+Latein	NN
+wird	VAFIN
+geschwänzt	VVPP
+und	KON
+dafür	PAV
+gebastelt	VVPP
+.	$.
+emojiQsmilingFaceWithOpenMouthAndTightlyClosedEyes	EMOIMG
+
+<posting id="1356" author="Participant_8" date="26. Okt., 22:32" />
+Haha	ITJ
+,	$,
+ok	PTKANT
+xD	EMOASC
+Ok	PTKANT
+,	$,
+also	ADV
+ich	PPER
+frag	VVFIN
+mal	ADV
+nach	PTKVZ
+,	$,
+ob	KOUS
+sie	PPER
+mit	APPR
+muttizettel	NN
+quasi	ADV
+mit	PTKVZ
+kann	VMFIN
+(	$(
+weiß	VVFIN
+nämlich	ADJD
+nicht	PTKNEG
+,	$,
+wie	PWAV
+das	PDS
+bei	APPR
+denen	PDS
+ist	VAFIN
+)	$(
+
+<posting id="1357" author="Participant_7" date="26. Okt., 22:59" />
+Wir	PPER
+sind	VAFIN
+eh	PTKMA
+noch	ADV
+unentschlossen	ADJD
+,	$,
+weil	KOUS
+Freitag	NN
+der	ART
+einzige	ADJA
+Tag	NN
+ist	VAFIN
+,	$,
+an	APPR
+dem	PRELS
+wir	PPER
+richtig	ADJD
+was	PIS
+schaffen	VVINF
+können	VMFIN
+.	$.
+emojiQcatFaceWithWrySmile	EMOIMG
+
+<posting id="1359" author="Participant_7" date="26. Okt., 22:59" />
+emojiQsmilingFaceWithSmilingEyes	EMOIMG
+
+<posting id="1361" author="Participant_8" date="26. Okt., 23:00" />
+Haha	ITJ
+,	$,
+alles	PIS
+klar	ADJD
+:)	EMOASC
+Whaaa	ITJ
+es	PPER
+ist	VAFIN
+sooo	PTKIFG
+toll	ADJD
+*_*	EMOASC
+
+<posting id="1362" author="Participant_7" date="26. Okt., 23:01" />
+Wir	PPER
+haben	VAFIN
+jetzt	ADV
+6	CARD
+Klingen	NN
+.	$.
+Zwei	CARD
+für	APPR
+jeden	PIS
+.	$.
+Die	ART
+restlichen	NN
+werden	VAFIN
+Attrappen	NN
+.	$.
+emojiQcatFaceWithTearsOfJoy	EMOIMG
+
+<posting id="1363" author="Participant_8" date="26. Okt., 23:01" />
+Oooh	ITJ
+wie	PTKIFG
+geeeil	ADJD
+!	$.
+emojiQsmilingCatFaceWithHeartShapedEyes	EMOIMG
+
+<posting id="1364" author="Participant_7" date="26. Okt., 23:04" />
+Und	KON
+Metalllack	NN
+habe	VAFIN
+wir	PPER
+vorhin	ADV
+auch	ADV
+bestellt	VVPP
+.	$.
+emojiQsmilingCatFaceWithHeartShapedEyes	EMOIMG

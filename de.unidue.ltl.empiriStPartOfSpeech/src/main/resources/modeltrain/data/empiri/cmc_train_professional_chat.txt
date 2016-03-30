@@ -1,0 +1,1211 @@
+<posting id="UB1-1" author="BENUTZER"/>
+Kann	VMFIN
+ich	PPER
+einen	ART
+Laptop	NN
+mit	PTKVZ
+in	APPR
+die	ART
+Bibo	NN
+nehmen	VVINF
+,	$,
+damit	KOUS
+ich	PPER
+im	APPRART
+Katalog	NN
+nach	APPR
+Büchern	NN
+suchen	VVINF
+kann	VMFIN
+,	$,
+oder	KON
+ist	VAFIN
+es	PPER
+jederzeit	ADV
+möglich	ADJD
+einen	ART
+freien	ADJA
+EDV-Platz	NN
+...	$(
+
+<posting id="UB1-2" author="AUSKUNFT"/>
+Sie	PPER
+können	VMFIN
+auf	APPR
+jedenfall	NN
+Ihr	PPOSAT
+Laptop	NN
+mitnehmen	VVINF
+.	$.
+WIr	PPER
+haben	VAFIN
+...	$(
+
+<posting id="UB1-3" author="AUSKUNFT"/>
+einen	ART
+Notebook-Arbeitspool	NN
+eingerichtet	VVPP
+,	$,
+für	APPR
+die	ART
+Nutzung	NN
+mit	APPR
+Kabel	NN
+und	KON
+Funknetz	NN
+.	$.
+Doch	KON
+...	$(
+
+<posting id="UB1-4" author="AUSKUNFT"/>
+gibt	VVFIN
+es	PPER
+einen	ART
+bibliothekseigenen	ADJA
+Intenet-Pool	NN
+,	$,
+sowie	KON
+einen	ART
+Recherche-Pool	NN
+,	$,
+die	PRELS
+Sie	PPER
+jederzeit	ADV
+nutzen	VVINF
+können	VMFIN
+.	$.
+EVtl.	ADJD
+im	APPRART
+Internet-Pool	NN
+müsste	VMFIN
+man	PIS
+etwas	ADV
+warten	VVINF
+,	$,
+bis	KOUS
+ein	ART
+Platz	NN
+frei	ADJD
+wird	VAFIN
+.	$.
+
+<posting id="UB1-5" author="BENUTZER"/>
+nochmals	ADV
+vielen	PIAT
+dank	NN
+!	$.
+
+<posting id="UB1-6" author="AUSKUNFT"/>
+bitte	PTKANT
+schön	ADJD
+:)	EMOASC
+
+<posting id="UB2-1" author="BENUTZER"/>
+Wie	PWAV
+bekomme	VVFIN
+ich	PPER
+heraus	PTKVZ
+,	$,
+ob	KOUS
+die	ART
+Uni	NN
+Dortmund	NE
+eine	ART
+bestimmte	ADJA
+Zeitschrift	NN
+abonniert	VVPP
+hat	VAFIN
+und	KON
+in	APPR
+welcher	PWAT
+Bib	NN
+die	PDS
+steht	VVFIN
+?	$.
+
+<posting id="UB2-2" author="AUSKUNFT"/>
+Sie	PPER
+können	VMFIN
+unter	APPR
+dem	ART
+Link	NN
+"	$(
+Unser	PPOSAT
+Katalog	NN
+"	$(
+nach	APPR
+Zeitschr.titel	NN
+suchen	VVINF
+
+<posting id="UB2-3" author="BENUTZER"/>
+Danke	PTKANT
+schön	ADJD
+!!	$.
+Das	PDS
+ging	VVFIN
+ja	PTKMA
+fix	ADJD
+
+<posting id="UB2-4" author="AUSKUNFT"/>
+gern	ADV
+geschehen	VVPP
+:)	EMOASC
+
+<posting id="UB3-1" author="BENUTZER"/>
+Wie	PWAV
+kann	VMFIN
+ich	PPER
+in	APPR
+der	ART
+Zeitschrift	NN
+WiSu	NE
+nach	APPR
+Schlagwörtern	NN
+in	APPR
+Artikeln	NN
+suchen	VVINF
+?	$.
+
+<posting id="UB3-2" author="BENUTZER"/>
+Hallo	ITJ
+?	$.
+
+<posting id="UB3-3" author="AUSKUNFT"/>
+Entweder	KON
+sie	PPER
+benutzen	VVFIN
+eine	ART
+Datenbank	NN
+
+<posting id="UB3-4" author="AUSKUNFT"/>
+oder	KON
+sie	PPER
+wälzen	VVFIN
+die	ART
+Jahresinhaltsverzeichnisse	NN
+
+<posting id="UB3-5" author="AUSKUNFT"/>
+der	ART
+Zeitschrift	NN
+,	$,
+da	ADV
+ist	VAFIN
+meistens	ADV
+ein	ART
+Sachregister	NN
+enthalten	VVPP
+
+<posting id="UB3-6" author="BENUTZER"/>
+Kann	VMFIN
+ich	PPER
+die	ART
+Jahresverzeichnisse	NN
+onine	ADJD
+einsehen	VVINF
+oder	KON
+geht	VVFIN
+das	PDS
+nur	PTKIFG
+an	APPR
+der	ART
+Uni	NN
+?	$.
+
+<posting id="UB3-7" author="BENUTZER"/>
+Habe	VAFIN
+von	APPR
+Services	NN
+gehört	VVPP
+,	$,
+die	PRELS
+nur	PTKIFG
+im	APPRART
+Netz	NN
+der	ART
+Uni	NN
+funktionieren	VVFIN
+.	$.
+
+<posting id="UB3-8" author="AUSKUNFT"/>
+Sie	PPER
+meinen	VVFIN
+sicher	ADJD
+die	ART
+elektronischen	ADJA
+Zeitschriften	NN
+
+<posting id="UB3-9" author="AUSKUNFT"/>
+oder	KON
+die	ART
+Datenbanken	NN
+,	$,
+die	PRELS
+sich	PRF
+nur	PTKIFG
+an	APPR
+Uni-Rechnern	NN
+aufrufen	VVINF
+lassen	VVFIN
+
+<posting id="UB3-10" author="AUSKUNFT"/>
+Sitzen	VVFIN
+Sie	PPER
+zur	APPRART
+Zeit	NN
+auf	APPR
+dem	ART
+Uni-Gelände	NN
+?	$.
+
+<posting id="UB3-11" author="AUSKUNFT"/>
+Dann	ADV
+würde	VAFIN
+ich	PPER
+nachsehen	VVINF
+
+<posting id="UB3-12" author="AUSKUNFT"/>
+ob	KOUS
+die	ART
+WiSU	NE
+elektronisch	ADJD
+verfügbar	ADJD
+ist	VAFIN
+
+<posting id="UB3-13" author="AUSKUNFT"/>
+Andernfalls	ADV
+müßten	VMFIN
+Sie	PPER
+uns	PPER
+besuchen	VVINF
+;-)	EMOASC
+
+<posting id="UB3-14" author="BENUTZER"/>
+Zur	APPRART
+Zeit	NN
+sitze	VVFIN
+ich	PPER
+auf	APPR
+der	ART
+Couch	NN
+.	$.
+Aber	KON
+ich	PPER
+muss	VMFIN
+eh	PTKMA
+noch	ADV
+zur	APPRART
+Uni	NN
+.	$.
+
+<posting id="UB3-15" author="AUSKUNFT"/>
+Dann	ADV
+ist	VAFIN
+es	PPER
+am	PTKA
+einfachsten	ADJD
+
+<posting id="UB3-16" author="AUSKUNFT"/>
+Wenn	KOUS
+Sie	PPER
+herkommen	VVFIN
+
+<posting id="UB3-17" author="AUSKUNFT"/>
+Dann	ADV
+stehen	VVFIN
+Ihnen	PPER
+sowohl	KON
+die	ART
+gedruckten	ADJA
+
+<posting id="UB3-18" author="AUSKUNFT"/>
+als	KON
+auch	ADV
+elektronische	ADJA
+Hilfsmittel	NN
+zur	APPRART
+Verfügung	NN
+
+<posting id="UB3-19" author="AUSKUNFT"/>
+Melden	VVIMP
+Sie	PPER
+sich	PRF
+einfach	ADJD
+an	APPR
+der	ART
+Info-Theke	NN
+
+<posting id="UB3-20" author="AUSKUNFT"/>
+dann	ADV
+zeigen	VVFIN
+wir	PPER
+Ihnen	PPER
+wie	PWAV
+es	PPER
+funktioniert	VVFIN
+
+<posting id="UB3-21" author="BENUTZER"/>
+Das	PDS
+werde	VAFIN
+ich	PPER
+machen	VVINF
+.	$.
+Danke	PTKANT
+für	APPR
+die	ART
+schnelle	ADJA
+Hilfe	NN
+.	$.
+Toller	ADJA
+Service	NN
+.	$.
+
+<posting id="UB3-22" author="AUSKUNFT"/>
+Vielen	PIAT
+Dank	NN
+Mike	NE
+!	$.
+
+<posting id="UB3-23" author="AUSKUNFT"/>
+Bis	APPR
+dann	ADV
+mal	PTKMA
+!	$.
+
+<posting id="UB3-24" author="AUSKUNFT"/>
+Und	KON
+viel	PIAT
+Erfolg	NN
+bei	APPR
+der	ART
+Suche	NN
+
+<posting id="UB3-25" author="AUSKUNFT"/>
+Haben	VAFIN
+Sie	PPER
+noch	ADV
+weitere	ADJA
+Fragen	NN
+?	$.
+
+<posting id="UB3-26" author="AUSKUNFT"/>
+Sonst	ADV
+würde	VAFIN
+ich	PPER
+den	ART
+Chat	NN
+schließen	VVINF
+
+<posting id="UB3-27" author="BENUTZER"/>
+Von	APPR
+meiner	PPOSAT
+Seite	NN
+wäre	VAFIN
+das	PDS
+schon	PTKIFG
+alles	PIS
+.	$.
+Danke	PTKANT
+nochmals	ADV
+...	$.
+
+<posting id="UB3-28" author="AUSKUNFT"/>
+Bittesehr	PTKANT
+.	$.
+Wir	PPER
+freuen	VVFIN
+uns	PRF
+immer	ADV
+über	APPR
+Chatter	NN
+;-)))	EMOASC
+
+<posting id="UB4-1" author="BENUTZER"/>
+kann	VMFIN
+ich	PPER
+der	ART
+signatur	NN
+erkennen	VVINF
+,	$,
+on	KOUS
+es	PPER
+sich	PRF
+um	APPR
+ein	ART
+buch	NN
+aus	APPR
+der	ART
+Lehrbuchsammlung	NN
+handelt	VVFIN
+?	$.
+
+<posting id="UB4-2" author="AUSKUNFT"/>
+Bücher	NN
+aus	APPR
+der	ART
+Lehrbuchsammlung	NN
+
+<posting id="UB4-3" author="AUSKUNFT"/>
+haben	VAFIN
+ein	ART
+großes	ADJA
+L	NN
+
+<posting id="UB4-4" author="AUSKUNFT"/>
+in	APPR
+der	ART
+Signatur	NN
+
+<posting id="UB4-5" author="AUSKUNFT"/>
+darauf	PAV
+folgen	VVFIN
+ein	CARD
+bis	APPR
+zwei	CARD
+weitere	ADJA
+Buchstaben	NN
+und	KON
+eine	ART
+Zahl	NN
+
+<posting id="UB4-6" author="AUSKUNFT"/>
+oder	KON
+Sie	PPER
+gucken	VVFIN
+in	APPR
+die	ART
+Vollanzeige	NN
+
+<posting id="UB4-7" author="AUSKUNFT"/>
+Zweigstelle	NN
+00	CARD
+Abteilung	NN
+02	CARD
+
+<posting id="UB4-8" author="AUSKUNFT"/>
+bedeutet	VVFIN
+auch	PTKMA
+immer	ADV
+Lehrbuchsammlung	NN
+
+<posting id="UB4-9" author="BENUTZER"/>
+vielen	PIAT
+Dank	NN
+.	$.
+
+<posting id="UB4-10" author="AUSKUNFT"/>
+Bittesehr	PTKANT
+.	$.
+Haben	VAFIN
+Sie	PPER
+weitere	ADJA
+Fragen	NN
+?	$.
+
+<posting id="UB4-11" author="BENUTZER"/>
+noch	ADV
+eine	ART
+frage	NN
+:	$.
+
+<posting id="UB4-12" author="AUSKUNFT"/>
+Ja	PTKANT
+?	$.
+
+<posting id="UB4-13" author="BENUTZER"/>
+ich	PPER
+studiere	VVFIN
+in	APPR
+essen	NE
+an	APPR
+einer	ART
+fachhochschule	NN
+(	$(
+FOM	NE
+)	$(
+kann	VMFIN
+ich	PPER
+bücher	NN
+aus	APPR
+der	ART
+lehrbuchsammlung	NN
+überhaupt	ADV
+ausleihen	VVINF
+?	$.
+
+<posting id="UB4-14" author="AUSKUNFT"/>
+Nur	PTKIFG
+wenn	KOUS
+Sie	PPER
+in	APPR
+der	ART
+FH	NN
+Dortmund	NE
+,	$,
+Bochum	NE
+,	$,
+Gelsenkirchen	NE
+oder	KON
+Hagen	NE
+studieren	VVFIN
+
+<posting id="UB4-15" author="AUSKUNFT"/>
+ansonsten	ADV
+gibt	VVFIN
+es	PPER
+aber	ADV
+meist	ADV
+ein	ART
+Exemplar	NN
+des	ART
+gleichen	ADJA
+Buches	NN
+
+<posting id="UB4-16" author="AUSKUNFT"/>
+im	APPRART
+normalen	ADJA
+Bestand	NN
+
+<posting id="UB4-17" author="BENUTZER"/>
+das	KOUS
+früher	ADV
+mal	PTKMA
+in	APPR
+do	NE
+studiert	VVPP
+habe	VAFIN
+zählt	VVFIN
+nicht	PTKNEG
+mehr	PTKMWL
+,	$,
+oder	KON
+?	$.
+(-:	EMOASC
+
+<posting id="UB4-18" author="AUSKUNFT"/>
+Leider	ADV
+nicht	PTKNEG
+;-((	EMOASC
+
+<posting id="UB4-19" author="BENUTZER"/>
+o.k.	PTKANT
+,	$,
+vielen	PIAT
+dank	NN
+!	$.
+
+<posting id="UB4-20" author="AUSKUNFT"/>
+Bitteschön	PTKANT
+!	$.
+
+<posting id="UB4-21" author="AUSKUNFT"/>
+Vielen	PIAT
+Dank	NN
+für	APPR
+den	ART
+Chat	NN
+!	$.
+Bitte	ADV
+schließen	VVIMP
+Sie	PPER
+das	ART
+Chat-Fenster	NN
+.	$.
+
+<posting id="SEM-11" author="Student5"/>
+Hallo	ITJ
+!	$.
+
+<posting id="SEM-12" author="Student3"/>
+Hallo	ITJ
+Student5	NE
+
+<posting id="SEM-13" author="Student5"/>
+Hallo	ITJ
+Student6	NE
+!	$.
+
+<posting id="SEM-14" author="Student3"/>
+Hallo	ITJ
+ebenso	ADV
+
+<posting id="SEM-15" author="Student6"/>
+Hallo	ITJ
+Student3	NE
+!	$.
+Hallo	ITJ
+Student5	NE
+!	$.
+
+<posting id="SEM-16" author="Student3"/>
+fördern	VVINF
+,	$,
+v.	APPR
+t.	NN
+Was	PWS
+ist	VAFIN
+mit	APPR
+Etymologie	NN
+?	$.
+
+<posting id="SEM-17" author="Student5"/>
+So	ITJ
+,	$,
+das	PDS
+hätten	VAFIN
+wir	PPER
+°	$(
+
+<posting id="SEM-18" author="Student5"/>
+Sehen	VVFIN
+grade	ADV
+nach	PTKVZ
+...	$.
+
+<posting id="SEM-19" author="Student5"/>
+Hast	VAFIN
+du	PPER
+ein	ART
+etymologisches	ADJA
+WB	NN
+?	$.
+Im	APPRART
+Inet	NN
+finden	VVFIN
+wir	PPER
+nichts	PIS
+.	$.
+
+<posting id="SEM-20" author="Student6"/>
+Dafür	PAV
+aber	ADV
+die	ART
+Synonyme	NN
+:	$(
+abbauen	VVINF
+,	$,
+aufbauen	VVINF
+,	$,
+ausbeuten	VVINF
+,	$,
+begünstigen	VVINF
+,	$,
+emporbringen	VVINF
+,	$,
+favorisieren	VVINF
+,	$,
+gewinnen	VVINF
+,	$,
+helfen	VVINF
+,	$,
+lancieren	VVINF
+,	$,
+protegieren	VVINF
+,	$,
+unterstützen	VVINF
+,	$,
+vorwärtsbringen	VVINF
+,	$,
+weiterhelfen	VVINF
+
+<posting id="SEM-21" author="Student3"/>
+Müssen	VMFIN
+wir	PPER
+denn	PTKMA
+die	ART
+Etymologie	NN
+mitnehmen	VVINF
+?	$.
+
+<posting id="SEM-22" author="Student3"/>
+Wichtiger	ADJD
+wären	VAFIN
+doch	PTKMA
+die	ART
+Bedeutungsangaben	NN
+:	$.
+Man	PIS
+kann	VMFIN
+etwas	PIS
+fördern	VVINF
+,	$,
+aber	KON
+auch	ADV
+jemanden	PIS
+...	$.
+
+<posting id="SEM-23" author="Student5"/>
+Nicht	PTKNEG
+unbedingt	ADJD
+,	$,
+aber	KON
+vielleicht	ADV
+die	ART
+Herkunftssprache	NN
+.	$.
+
+<posting id="SEM-24" author="Student5"/>
+Also	ADV
+Verwendungsmöglichkeiten	NN
+?	$.
+
+<posting id="SEM-25" author="Student3"/>
+FÖRDERN	VVINF
+,	$,
+juvare	FM
+,	$,
+promovere	FM
+,	$,
+provehere	FM
+,	$,
+beschleunigen	VVINF
+,	$,
+nicht	PTKNEG
+aufschieben	VVINF
+,	$,
+aus	APPR
+förder	VVFIN
+gebildet	VVPP
+,	$,
+wie	KOKOM
+fürdern	VVINF
+aus	APPR
+fürder	VVFIN
+,	$,
+fordern	VVINF
+aus	APPR
+forder	VVFIN
+.	$.
+fördern	VVINF
+der	ART
+gegensatz	NN
+von	APPR
+hindern	VVINF
+.	$.
+die	ART
+mhd.	ADJA
+form	NN
+fürdern	VVINF
+erscheint	VVFIN
+auch	ADV
+hin	ADV
+und	KON
+wieder	ADV
+nhd.	ADJD
+
+<posting id="SEM-26" author="Student3"/>
+Sorry	ITJ
+,	$,
+das	PDS
+sind	VAFIN
+die	ART
+etymologischen	ADJA
+Angaben	NN
+zu	APPR
+fördern	VVINF
+,	$,
+die	PRELS
+ich	PPER
+gefunden	VVPP
+habe	VAFIN
+....	$.
+
+<posting id="SEM-27" author="Student3"/>
+sie	PPER
+sind	VAFIN
+nicht	PTKNEG
+sehr	PTKIFG
+hilfreich	ADJD
+*	$(
+E	AKW
+*	$(
+
+<posting id="SEM-28" author="Student3"/>
+fördern	VVINF
+,	$,
+vt.	ADV
+(	$(
+aus	APPR
+dem	ART
+mihd.	ADJA
+fürdern	VVINF
+,	$,
+aus	APPR
+fürder	VVFIN
+)	$(
+
+<posting id="SEM-29" author="Student3"/>
+Was	PWS
+meint	VVFIN
+Ihr	PPER
+?	$.
+
+<posting id="SEM-30" author="Student5"/>
+die	ART
+mittelhochdeutsche	ADJA
+angabe	NN
+wäre	VAFIN
+schon	PTKMA
+für	APPR
+den	ART
+eintrag	NN
+interessant	ADJD
+.	$.
+
+<posting id="SEM-31" author="Student3"/>
+fürder	VVFIN
+,	$,
+seh	VVFIN
+ich	PPER
+grad	ADV
+,	$,
+heißt	VVFIN
+vorwärts	ADV
+...	$(
+fördern	VVINF
+:	$(
+eine	ART
+Sache	NN
+vorwärts	ADV
+bringen	VVINF
+
+<posting id="SEM-32" author="Student3"/>
+Sollen	VMFIN
+wir	PPER
+es	PPER
+mit	APPR
+Satzstrukturen	NN
+:	$(
+jdn.	PIS
+fördern	VVINF
+=	$(
+jmdn.	PIS
+unterstützen	VVINF
+.	$.
+helfen	VVINF
+,	$,
+etw.	PIS
+fördern	VVINF
+etwas	PIS
+bewegen	VVINF
+,	$,
+so	ADV
+was	PIS
+wie	KOKOM
+in	APPR
+Fördernanlagen	NN
+(	$(
+hier	ADV
+im	APPRART
+Pott	NN
+:-)	EMOASC
+)	$(
+?	$.
+
+<posting id="SEM-33" author="Student5"/>
+Kurze	ADJA
+Satzbeispiele	NN
+wären	VAFIN
+gut	ADJD
+.	$.
+
+<posting id="SEM-34" author="Student6"/>
+Wer	PWS
+wollte	VMFIN
+von	APPR
+den	ART
+Mächtigen	NN
+mich	PPER
+fördern	VVINF
+?	$.
+(	$(
+Quelle	NN
+:	$(
+Kindler	NE
+Literaturlexikon	NN
+)	$(
+
+<posting id="SEM-35" author="Student3"/>
+Sie	PPER
+vermitteln	VVFIN
+eine	ART
+praktische	ADJA
+Moral	NN
+,	$,
+geeigneter	ADJA
+,	$,
+den	ART
+Verstand	NN
+zu	PTKZU
+schärfen	VVINF
+und	KON
+den	ART
+Willen	NN
+zu	PTKZU
+stärken	VVINF
+,	$,
+als	KOKOM
+Herzensgüte	NN
+,	$,
+Heldentum	NN
+oder	KON
+idealistische	ADJA
+Gesinnung	NN
+zu	PTKZU
+fördern	VVINF
+.	$.
+(	$(
+Quelle	NN
+:	$(
+Kindler	NE
+Literaturlexikon	NN
+)	$(
+
+<posting id="SEM-36" author="Student6"/>
+Dies	PDS
+sind	VAFIN
+aber	ADV
+Erfahrungselemente	NN
+,	$,
+die	PRELS
+die	ART
+Fähigkeit	NN
+fördern	VVFIN
+,	$,
+festgefahrene	ADJA
+Verhaltensmuster	NN
+zu	PTKZU
+durchschauen	VVINF
+.	$.
+
+<posting id="SEM-37" author="Student6"/>
+Dies	PDS
+behindert	VVFIN
+vor	APPR
+allem	PIS
+die	ART
+kleinen	ADJA
+Anbieter	NN
+,	$,
+die	PRELS
+es	PPER
+ja	PTKMA
+gerade	ADV
+zu	PTKZU
+fördern	VVINF
+gilt	VVFIN
+"	$(
+.	$.
+(	$(
+Quelle	NN
+:	$(
+ZDNet	NE
+1999	CARD
+)	$(
+
+<posting id="SEM-38" author="Student5"/>
+Ist	VAFIN
+dein	PPOSAT
+Beispiel	NN
+nicht	PTKNEG
+vielleicht	ADV
+ein	ART
+bisschen	PIAT
+lang	ADJD
+,	$,
+Student3	NE
+?	$.
+
+<posting id="SEM-39" author="Student6"/>
+Die	ART
+Bundesregierung	NN
+will	VMFIN
+die	ART
+Telearbeit	NN
+mit	APPR
+zwei	CARD
+neuen	ADJA
+Projekten	NN
+weiter	ADJD
+fördern	VVINF
+.	$.
+(	$(
+Quelle	NN
+:	$(
+ZDNet	NE
+1999	CARD
+)	$(
+
+<posting id="SEM-40" author="Student3"/>
+Da	ADV
+gebe	VVFIN
+ich	PPER
+Dir	PPER
+recht	PTKVZ
+,	$,
+Student5	NE
+!	$.
+War	VAFIN
+aus	APPR
+dem	ART
+Wortschatzlexikon	NN
+,	$,
+das	PDS
+untersucht	VVFIN
+besondersn	ADV
+Kindlers	NE
+
+<posting id="SEM-41" author="Student6"/>
+Sie	PPER
+werfen	VVFIN
+Diamond	NE
+vor	PTKVZ
+,	$,
+die	ART
+Musikpiraterie	NN
+zu	PTKZU
+fördern	VVINF
+.	$.
+(	$(
+Quelle	NN
+:	$(
+ZDNet	NE
+1999	CARD
+)	$(
+
+<posting id="SEM-42" author="Student3"/>
+Wie	PWAV
+würdet	VAFIN
+Ihr	PPER
+denn	PTKMA
+die	ART
+Bedeutungsdefinitionen	NN
+formulieren	VVINF
+?	$.
+Oder	KON
+nur	PTKIFG
+Synonymangaben	NN
+?	$.
+
+<posting id="SEM-44" author="Teacher1"/>
+Bitte	PTKANT
+zurück	PTKVZ
+in	APPR
+den	ART
+Classroom	NN
+kommen	VVINF
+
+<posting id="SEM-46" author="Student6"/>
+wie	KOUS
+du	PPER
+,	$,
+Student3	NE
+schon	PTKMA
+geschrieben	VVPP
+hast	VAFIN
+...	$(
+jn.	PIS
+unterstützen	VVINF
+,	$,
+helfen	VVINF
+...	$.
+
+<posting id="SEM-47" author="Student6"/>
+und	KON
+sonst	ADV
+nur	PTKIFG
+Beispielsätze	NN
+...	$.
+
+<posting id="SEM-48" author="Student6"/>
+das	PDS
+müsste	VMFIN
+eigentlich	ADJD
+reichen	VVINF
+.	$.
+
+<posting id="SEM-49" author="Student5"/>
+ja	PTKANT
+
+<posting id="SEM-50" author="Student3"/>
+ok	PTKANT
+
+<posting id="SEM-59" author="Student3"/>
+Können	VMFIN
+wir	PPER
+das	PDS
+einfach	ADJD
+per	APPR
+EMail	NN
+regeln	VVINF
+?	$.
+
+<posting id="SEM-61" author="Student3"/>
+Ebenso	ADV
+Student5	NE
+,	$,
+und	KON
+Dir	PPER
+Student6	NE
+wünsch	VVFIN
+ich	PPER
+das	PDS
+auch	ADV
+!	$.
+
+<posting id="SEM-62" author="Student5"/>
+passt	VVFIN
+immer	PTKMWL
+noch	PTKMWL
+nicht	PTKNEG
+,	$,
+aber	KON
+weißt	VVFIN
+ja	PTKMA
+,	$,
+was	PWS
+gemeint	ADJD
+ist	VAFIN
+!	$.
+
+<posting id="SEM-63" author="Student6"/>
+Euch	PPER
+auch	ADV
+!	$.
+
+<posting id="SEM-64" author="Student5"/>
+Wir	PPER
+machen	VVFIN
+das	PDS
+dann	ADV
+per	APPR
+Mail	NN
+.	$.
+
+<posting id="SEM-65" author="Student3"/>
+Seid	VAFIN
+ihr	PPER
+unter	APPR
+den	ART
+Adressen	NN
+,	$,
+die	PRELS
+auf	APPR
+der	ART
+Seminarseits	NN
+stehen	VVFIN
+zu	PTKZU
+erreichen	VVINF
+?	$.
+Ich	PPER
+geb	VVFIN
+mal	PTKMA
+einen	ART
+Entwurf	NN
+vor	PTKVZ
+,	$,
+ihr	PPER
+ergänzt	VVFIN
+oder	KON
+irgendwelche	PIAT
+EInwände	NN
+?	$.
