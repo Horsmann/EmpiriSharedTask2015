@@ -24,7 +24,7 @@ public class RunWhitespaceSplitterOnTestData
         throws Exception
     {
         String INPUT_FOLDER = "src/main/resources/testDataRaw/";
-        String OUTPUT_FOLDER = "target/testData/whitespace/";
+        String OUTPUT_FOLDER = "target/testData/whitespace/web";
 
         String[] pairs = new String[] { INPUT_FOLDER + "web/web_test_001.txt",
 
@@ -61,7 +61,7 @@ public class RunWhitespaceSplitterOnTestData
         throws Exception
     {
         String INPUT_FOLDER = "src/main/resources/testDataRaw/";
-        String OUTPUT_FOLDER = "target/testData/whitespace/";
+        String OUTPUT_FOLDER = "target/testData/whitespace/cmc";
 
         String[] files = new String[] {
 
