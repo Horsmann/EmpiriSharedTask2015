@@ -25,7 +25,7 @@ public class RunOwnTokenisationOnTestData
     {
 
         String WEB_INPUT_PREFIX = "src/main/resources/testDataRaw/web/";
-        String WEB_OUTPUT_PREFIX = "target/testData/web_tok_LTL-UDE/";
+        String WEB_OUTPUT_PREFIX = "target/testData/own/web_tok_LTL-UDE/";
 
         String[] files = new String[] { 
                 "web_test_001.txt", 
@@ -62,7 +62,7 @@ public class RunOwnTokenisationOnTestData
     {
 
         String CMC_INPUT_PREFIX = "src/main/resources/testDataRaw/cmc/";
-        String CMC_OUTPUT_PREFIX = "target/testData/cmc_tok_LTL-UDE/";
+        String CMC_OUTPUT_PREFIX = "target/testData/own/cmc_tok_LTL-UDE/";
 
         String[] files = new String[] { "cmc_test_blog_comment.txt",
                 "cmc_test_professional_chat.txt", "cmc_test_social_chat.txt",

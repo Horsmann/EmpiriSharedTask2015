@@ -24,7 +24,7 @@ public class RunArkTokenizerOnTestData
         throws Exception
     {
         String INPUT_FOLDER = "src/main/resources/testDataRaw/";
-        String OUTPUT_FOLDER = "target/testData/arktoolsTokenisation/";
+        String OUTPUT_FOLDER = "target/testData/arktoolsTokenisation/web";
 
         String[] pairs = new String[] { INPUT_FOLDER + "web/web_test_001.txt",
 
@@ -61,7 +61,7 @@ public class RunArkTokenizerOnTestData
         throws Exception
     {
         String INPUT_FOLDER = "src/main/resources/testDataRaw/";
-        String OUTPUT_FOLDER = "target/testData/arktoolsTokenisation/";
+        String OUTPUT_FOLDER = "target/testData/arktoolsTokenisation/cmc";
 
         String[] files = new String[] {
 

@@ -7,7 +7,6 @@ import org.apache.uima.fit.factory.CollectionReaderFactory;
 import org.apache.uima.fit.pipeline.SimplePipeline;
 
 import de.tudarmstadt.ukp.dkpro.core.tokit.BreakIteratorSegmenter;
-import de.unidue.ltl.tok.baseline.WhiteSpaceSplitter;
 import de.unidue.ltl.tok.misc.DataReader;
 import de.unidue.ltl.tok.misc.Dumper;
 
@@ -25,7 +24,7 @@ public class RunBreakIteratorOnTestData
         throws Exception
     {
         String INPUT_FOLDER = "src/main/resources/testDataRaw/";
-        String OUTPUT_FOLDER = "target/testData/breakIter/";
+        String OUTPUT_FOLDER = "target/testData/breakIter/web";
 
         String[] pairs = new String[] { INPUT_FOLDER + "web/web_test_001.txt",
 
@@ -62,7 +61,7 @@ public class RunBreakIteratorOnTestData
         throws Exception
     {
         String INPUT_FOLDER = "src/main/resources/testDataRaw/";
-        String OUTPUT_FOLDER = "target/testData/breakIter/";
+        String OUTPUT_FOLDER = "target/testData/breakIter/cmc";
 
         String[] files = new String[] {
 
