@@ -27,7 +27,6 @@ public class RunBreakIterator
         String OUTPUT_FOLDER = "target/trainData/dkproBreakIterator/web/";
 
         String[] files = new String[] { INPUT_FOLDER + "web/web_train_001.txt",
-                OUTPUT_FOLDER + "/web_train_001.txt",
 
                 INPUT_FOLDER + "web/web_train_002.txt",
 
